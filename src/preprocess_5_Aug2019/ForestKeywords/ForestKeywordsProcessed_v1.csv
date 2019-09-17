@@ -1,0 +1,868 @@
+,genus,species,common_name,range_state
+0,Abarema,jupunba,Ingarana;Tento Azul;Huruasa,GY
+1,Acacia,auriculiformis,Black Wattle;Brown Salwood;Mangge Hutan;Tongke Hutan;Kayu Safoda;Arr;Kra Thin Tepa;Brown Salwood;Black Wattle;Brown Salwood;Black Wattle;Acacia,AU;ID;MY;PG;TH;GB;US
+2,Acacia,mangium,Black Wattle;Brown Salwood;Mangge Hutan;Tongke Hutan;Kayu Safoda;Arr;Kra Thin Tepa;Brown Salwood;Black Wattle;Brown Salwood;Black Wattle;Acacia,AU;ID;MY;PG;TH;GB;US
+3,Adina,cordifolia,Khvao;Kwao;Haldu;Lasi;Thom;Meraga;Hnaw;Adina;Haldu;Kolon;Kwao;Tong Lueang;Gao-Vang;Haldu,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+4,Adina,microcephala,Matumi;Rhodesian Redwood;Mugonha,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+5,Afrormosia,elata,Obang;Obang;Assamela;Kokrodua;Ole;Bohala;Mohole;Assamela;Oleo Pardo;Afrormosia,CM;CF;CI;GH;CD;FR
+6,Afzelia,africana,N’kokongo Uvala;M’Banga;Doussié;N’Kokongo;Lingue;Azodau;Papao;Mussacossa;Chanfuta;Apa;Aligna;Lingue;Kpendei;Mkora;Mbembakofi;Bolengu;Afzelia;Chafuta;Afzelia;Afzelia;Doussié,AO;CM;CG;CI;GH;MZ;NG;SN;SL;TZ;CD;DE;PT;GB;US
+7,Afzelia,bella,N’kokongo Uvala;M’Banga;Doussié;N’Kokongo;Lingue;Azodau;Papao;Mussacossa;Chanfuta;Apa;Aligna;Lingue;Kpendei;Mkora;Mbembakofi;Bolengu;Afzelia;Chafuta;Afzelia;Afzelia;Doussié,AO;CM;CG;CI;GH;MZ;NG;SN;SL;TZ;CD;DE;PT;GB;US
+8,Afzelia,bipindensis,N’kokongo Uvala;M’Banga;Doussié;N’Kokongo;Lingue;Azodau;Papao;Mussacossa;Chanfuta;Apa;Aligna;Lingue;Kpendei;Mkora;Mbembakofi;Bolengu;Afzelia;Chafuta;Afzelia;Afzelia;Doussié,AO;CM;CG;CI;GH;MZ;NG;SN;SL;TZ;CD;DE;PT;GB;US
+9,Afzelia,cuanzensis,N’kokongo Uvala;M’Banga;Doussié;N’Kokongo;Lingue;Azodau;Papao;Mussacossa;Chanfuta;Apa;Aligna;Lingue;Kpendei;Mkora;Mbembakofi;Bolengu;Afzelia;Chafuta;Afzelia;Afzelia;Doussié,AO;CM;CG;CI;GH;MZ;NG;SN;SL;TZ;CD;DE;PT;GB;US
+10,Afzelia,pachyloba,N’kokongo Uvala;M’Banga;Doussié;N’Kokongo;Lingue;Azodau;Papao;Mussacossa;Chanfuta;Apa;Aligna;Lingue;Kpendei;Mkora;Mbembakofi;Bolengu;Afzelia;Chafuta;Afzelia;Afzelia;Doussié,AO;CM;CG;CI;GH;MZ;NG;SN;SL;TZ;CD;DE;PT;GB;US
+11,Aglaia,,Tasua,
+12,Albizia,adianthifolia,Mepepe,
+13,Albizia,angolensis,Zanzangue;Agla Nyinfun;Evouvous;Sifou-Sifou;Yatanza;Iatandza;Awiemfo-Samina;Okuro;Musase;Ayinre-Ogo;Mugavu;Nongo;Elongwamba;Okuru;West African Albizia;Iatandza,AO;BJ;CM;CG;CI;GA;GH;LR;NG;UG;CD;GB
+14,Albizia,falcataria,Falcata;Moluccan sau;Jeungjing;Sengon laut;Sikat;Batai;Kayu machis;Puah;Indonesian albizia;Batai,PH;ID;MY;GB
+15,Albizia,fastigiata,Mepepe,
+16,Albizia,ferruginea,Zanzangue;Agla Nyinfun;Evouvous;Sifou-Sifou;Yatanza;Iatandza;Awiemfo-Samina;Okuro;Musase;Ayinre-Ogo;Mugavu;Nongo;Elongwamba;Okuru;West African Albizia;Iatandza,AO;BJ;CM;CG;CI;GA;GH;LR;NG;UG;CD;GB
+17,Albizia,gummifera,Mepepe,
+18,Albizia,lebbek,Sirish;Sirisha;Aninapla;Langil;Siris;Sirs;Kitoke;Tarisi;Tekik;Batai;Batai Batu;Kungkur;Oriang;Kalo Siris;Cha Kham;Chamchuri;Kampu;Phruek;Suek;Lim Xanh;Bois noir;Bois savane;Tcha Tcha;Acacia Chachá;Algarroba de Olor;Amor Plantónico;Aroma;Aroma Fracesca;Cabellos de Ángel;Faurestina;Florestina;Lengua de Mujer;Lengua Viperina;Acacia Amarilla;East Indian Walnut;English Woman's Tongue;Fry wood;Indian Siris;Lebbeck;Siris Tree;Woman’s Tongue Tree;Kokko,BD;PH;IN;ID;MY;NP;TH;VN;FR;ES;GB
+19,Albizia,saman,Kungkur,
+20,Albizia,zygia,Mepepe,
+21,Alchornea,triplinervia,Kanakudiballi;Tapiá,BR
+22,Alexa,,Haiari,BR;GY;SR
+23,Allantoma,integrifolia,Yesquero;Jequitiba;Jequitiba Branco;Jequitiba Rosa;Jequitiba Vermelho;Estopeiro;Jequitiba,BO;BR
+24,Alstonia,angustiloba,Pulai;Sepati;Pulai;Letok;Sega;White Cheese Wood;Mike Wood;Dita;Thia;Mo-Cua;White Cheese Wood;Mike Wood;Chaitanwood;Chatian;Pagoda Tree;Patternwood;Pulaï;Hard Alstonia,ID;MY;MM;PG;PH;TH;VN;AU;IN;GB
+25,Alstonia,boonei,Awun;Egbu;Mubajangalabi;Mujua;Mukoge;Musoga;Alstonia;Pattern wood;Stool wood;Emien,NG;UG;GB
+26,Alstonia,congensis,Awun;Egbu;Mubajangalabi;Mujua;Mukoge;Musoga;Alstonia;Pattern wood;Stool wood;Emien,NG;UG;GB
+27,Alstonia,gilletii,Awun;Egbu;Mubajangalabi;Mujua;Mukoge;Musoga;Alstonia;Pattern wood;Stool wood;Emien,NG;UG;GB
+28,Alstonia,macrophylla,Pulai;Sepati;Pulai;Letok;Sega;White Cheese Wood;Mike Wood;Dita;Thia;Mo-Cua;White Cheese Wood;Mike Wood;Chaitanwood;Chatian;Pagoda Tree;Patternwood;Pulaï;Hard Alstonia,ID;MY;MM;PG;PH;TH;VN;AU;IN;GB
+29,Alstonia,pneumatophora,Pulai;Sepati;Pulai;Letok;Sega;White Cheese Wood;Mike Wood;Dita;Thia;Mo-Cua;White Cheese Wood;Mike Wood;Chaitanwood;Chatian;Pagoda Tree;Patternwood;Pulaï;Hard Alstonia,ID;MY;MM;PG;PH;TH;VN;AU;IN;GB
+30,Alstonia,scholaris,Pulai;Sepati;Pulai;Letok;Sega;White Cheese Wood;Mike Wood;Dita;Thia;Mo-Cua;White Cheese Wood;Mike Wood;Chaitanwood;Chatian;Pagoda Tree;Patternwood;Pulaï;Hard Alstonia,ID;MY;MM;PG;PH;TH;VN;AU;IN;GB
+31,Alstonia,spatulata,Pulai;Sepati;Pulai;Letok;Sega;White Cheese Wood;Mike Wood;Dita;Thia;Mo-Cua;White Cheese Wood;Mike Wood;Chaitanwood;Chatian;Pagoda Tree;Patternwood;Pulaï;Hard Alstonia,ID;MY;MM;PG;PH;TH;VN;AU;IN;GB
+32,Amblygonocarpus,andongensis,Banga-wanga,
+33,Amblygonocarpus,obtusangulus,Banga-wanga,
+34,Amburana,cearensis,Roble Criollo;Roble del País;Roble;Palo Trébol;Trébol;Roble Americano;Amburana;Cerejeira;Cumarú de Cheiro;Umburana;Trébol;Ishipingo;Sorioco;Cerejeira,AR;BO;BR;PY;PE
+35,Amoora,,Tasua,
+36,Amphimas,pterocarpoides,Edjin;Edzil;Lati;Edzui;Muzui;Bokanga;Lati,CM;CI;GH;CG
+37,Amphimas,,Lati,CM;CI;GH;CG
+38,Anacardium,excelsum,Caju Assu;Caju da Matta;Caracoli;Maranon;Espavel;Caracoli;Caracoli,BR;CO;EC;NI;VE
+39,Anadenanthera,colubrina,Angico;Cebil;Huilco;Vilca;Wilco;Curupay,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+40,Andira,,Andira,BR;CO;EC;GF;GY;MX;PE;SR;TT;VE
+41,Androstachys,johnsonii,Cimbirre;Lebombo Ironwood;Nsimbitsi;Mecrussé,MZ;ZA
+42,Aniba,duckei,Pau-Rosa;Bois rose femelle,BR
+43,Aniba,guianensis,Canelón,
+44,Aniba,hypoglauca;Aniba,Gale Silverballi;Garl;Kawioi;Kurero Shiruaballi;Kurero Silverballi;Moena Puchiri;Silverballi;Yellow Silverballi;Yellow Sweetwood;Gale Silverballi,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+45,Aniba,perutilis,Coto;Coto Piquiante;Laurel Amarelo;Pau Rosa;Aceite de Palo;Caparrapi;Chachajo;Comino;Comino Canelo;Comino Real;Laurel Comino;Punte;Comino;Ishpingo Chico;Moena Amarilla;Muena Negro;Keriti;Comino Crespo,BO;BR;CO;PE;GB
+46,Aniba,rosaeodora,Pau-Rosa;Bois rose femelle,BR
+47,Aningeria,altissima,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+48,Aningeria,robusta,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+49,Aningeria,superba,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+50,Aningeria,,Aniégré (Aningré),AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+51,Anisoptera,costata,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+52,Anisoptera,curtisii,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+53,Anisoptera,laevis,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+54,Anisoptera,marginata,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+55,Anisoptera,oblonga,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+56,Anisoptera,thurifera,Phdiek;Mersawa;Mai Bak;Mersawa;Pengiran;Kaunghmu;Mersawa;Palosapis;Krabak;Pik;Ven-Ven;Krabak;Bella Rosa;Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+57,Anisoptera,,Mersawa,KH;ID;LA;MY;MM;PG;PH;TH;FR;GB;US
+58,Anopyxis,ealaensis,Bodioa,
+59,Anopyxis,klaineana,Bodioa,
+60,Anthocephalus,cadamba,Jabon;Kelempajan;Kalempayn;Kelampo;Kelepayan;Ludai;Kelempayan;Mau;Yemau;Maukadon;Mau-Lettan-She;Kaatoan Bangkal;Kadam,ID;MY;MM;PH
+61,Anthocephalus,macrophyllus,Jabon;Kelempajan;Kalempayn;Kelampo;Kelepayan;Ludai;Kelempayan;Mau;Yemau;Maukadon;Mau-Lettan-She;Kaatoan Bangkal;Kadam,ID;MY;MM;PH
+62,Anthonotha,fragrans,Kibakoko,
+63,Antiaris,africana,Sansama;Ako;Akede;Chenchen;Kyenkyen;Oro;Ogiovu;Mlulu;Mkuzu;Kirundu;Mumaka;Bonkonko;Bonkongo;Antiaris;Antiaris;Ako,AO;CI;GH;NG;TZ;UG;CD;DE;GB
+64,Antiaris,toxicaria,Sansama;Ako;Akede;Chenchen;Kyenkyen;Oro;Ogiovu;Mlulu;Mkuzu;Kirundu;Mumaka;Bonkonko;Bonkongo;Antiaris;Antiaris;Ako,AO;CI;GH;NG;TZ;UG;CD;DE;GB
+65,Antiaris,welwitschii,Sansama;Ako;Akede;Chenchen;Kyenkyen;Oro;Ogiovu;Mlulu;Mkuzu;Kirundu;Mumaka;Bonkonko;Bonkongo;Antiaris;Antiaris;Ako,AO;CI;GH;NG;TZ;UG;CD;DE;GB
+66,Antonia,ovata,Inyak,
+67,Antrocaryon,klaineanum,N’Gongo;Angonga;Akoua;Anguekong;Onzabili;Aprokuma;Mugongo;Mongongo;Onzabili,AO;CM;CI;GQ;GA;GH;CD;PT
+68,Antrocaryon,micraster,N’Gongo;Angonga;Akoua;Anguekong;Onzabili;Aprokuma;Mugongo;Mongongo;Onzabili,AO;CM;CI;GQ;GA;GH;CD;PT
+69,Antrocaryon,nannanii,N’Gongo;Angonga;Akoua;Anguekong;Onzabili;Aprokuma;Mugongo;Mongongo;Onzabili,AO;CM;CI;GQ;GA;GH;CD;PT
+70,Artocarpus,,Keledang (Terap),ID;MY;PH;TH
+71,Aspidosperma,,Pau marfim (Peroba rosa),BZ;BO;BR;CO;GF;GT;GY;HN;MX;PA;PE;SR;VE
+72,Astronium,balansae,Urunday del Noroeste;Urunday-Mi;Urundel;Cuchi;Arindeúva;Aroeira-do-Sertão;Aroeira Preta;Urindeúva;Urunde'y Mi;Bois de Zèbre;Bossona;Mura;Tigerwood;Urunday-Para;Zebrano;Zebrawood;Zorrowood;Urunday,AR;BO;BR;PY;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+73,Astronium,concinnum,Urunday del Noroeste;Urunday-Mi;Urundel;Cuchi;Arindeúva;Aroeira-do-Sertão;Aroeira Preta;Urindeúva;Urunde'y Mi;Bois de Zèbre;Bossona;Mura;Tigerwood;Urunday-Para;Zebrano;Zebrawood;Zorrowood;Urunday,AR;BO;BR;PY;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+74,Astronium,graveolens,Urunday del Noroeste;Urunday-Mi;Urundel;Cuchi;Arindeúva;Aroeira-do-Sertão;Aroeira Preta;Urindeúva;Urunde'y Mi;Bois de Zèbre;Bossona;Mura;Tigerwood;Urunday-Para;Zebrano;Zebrawood;Zorrowood;Urunday,AR;BO;BR;PY;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+75,Astronium,urundeuva,Urunday del Noroeste;Urunday-Mi;Urundel;Cuchi;Arindeúva;Aroeira-do-Sertão;Aroeira Preta;Urindeúva;Urunde'y Mi;Bois de Zèbre;Bossona;Mura;Tigerwood;Urunday-Para;Zebrano;Zebrawood;Zorrowood;Urunday,AR;BO;BR;PY;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+76,Aucoumea,klaineana,N’Kumi;Okumé;N’Goumi;Okoumé;Angouma;Gaboon;Okoumé,CG;GQ;GA;GB
+77,Autranella,congolensis,Kungulu;Elang;Elanzok;Bouanga;Mfua;Mukulungu;Akola;Uku;Mukulungu,AO;CM;CF;CG;CD;GA;NG
+78,Bagassa,guianensis,Amapa-Rana;Tatajuba;Bagasse Jaune;Gele Bagasse;Tatajuba,BR;GF;SR
+79,Baikiaea,plurijuga,Mukusi;Rhodesian Teak;Zambian Teak;Zambesi Redwood;Umgusi,BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW
+80,Baillonella,toxisperma,Adjap;Ayap;Dimpampi;Ayap;M’Foi;Muamba jaune;African Pearwood;Moabi,CM;CG;GQ;GA;CD;GB
+81,Balanocarpus,heimii,Penak-Bunga;Penak-Sabut;Penak-Tembaga;Chengal;Takian Chan;Chengal,ID;MY;TH
+82,Baphia,nitida,Okoué,
+83,Baphia,pubescens,Okoué,
+84,Barringtonia,asiatica,Fish Poison Tree;Sea Poison Tree;Botong,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+85,Beilschmiedia,congolana,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+86,Beilschmiedia,gaboonensis,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+87,Beilschmiedia,hutchinsoniana,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+88,Beilschmiedia,letouzeyi,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+89,Beilschmiedia,mannii,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+90,Beilschmiedia,oblongifolia,Kanda;Bonzale;Bitehi;Nkonengu;Mfimbo;Kanda brun;Kanda rose;Kanda,CM;CF;CI;GA;TZ
+91,Beilschmiedia,,"Kanda (Kanda brun, Kanda rose)",CM;CF;CI;GA;TZ
+92,Berlinia,bifoliolata,Ekop-Ribi;Eko-Andoung;Ekop;Ekop-Andoung;Hoh;Sikon;Ekop;Ekop;Ekaban;Tetraberlinia;Ekaba,CM;CG;GQ;GA;LR;DE;NL;ES;GB
+93,Berlinia,bracteosa,M’possa;Bagbe;Abem;Essabem;M’Possa;M’Possa;Melegba;Pocouli;Ebiara;Berlinia;Ekpogoi;Sarkpei;Berlinia;Berlinia;Ebiara,AO;BJ;CM;CG;CD;CI;GA;GH;NG;SL;DE;GB
+94,Berlinia,confusa,M’possa;Bagbe;Abem;Essabem;M’Possa;M’Possa;Melegba;Pocouli;Ebiara;Berlinia;Ekpogoi;Sarkpei;Berlinia;Berlinia;Ebiara,AO;BJ;CM;CG;CD;CI;GA;GH;NG;SL;DE;GB
+95,Berlinia,grandiflora,M’possa;Bagbe;Abem;Essabem;M’Possa;M’Possa;Melegba;Pocouli;Ebiara;Berlinia;Ekpogoi;Sarkpei;Berlinia;Berlinia;Ebiara,AO;BJ;CM;CG;CD;CI;GA;GH;NG;SL;DE;GB
+96,Berlinia,seretii,Alumbi,
+97,Bertholletia,excelsa,Castanha-do-Brasil;Castanha-do Pará;Castanheira;Canstana do Brasil;Canstana do Pará;Castaña;Castanha-do-Maranhao;Nuez del Brasil;Châtaigne du brésil;Noix du brésil;Noix du pará;Brazil nut;Butter nut;Cream nut;Para nut;Castanheiro Para,BR;CO;FR;GB
+98,Bobgunnia,fistuloides,Nom Nsas;Kisasambra;Boto;N’Guessa;Nsakala;Oken;Pau Ferro;Udoghogho;Pao rosa,CM;CG;CI;CF;CD;GA;MZ;NG
+99,Bobgunnia,madagascariensis,Nom Nsas;Kisasambra;Boto;N’Guessa;Nsakala;Oken;Pau Ferro;Udoghogho;Pao rosa,CM;CG;CI;CF;CD;GA;MZ;NG
+100,Bocoa,prouacensis,Wamara,
+101,Bombacopsis,quinata,Cedro Espino;Cedro Espinoso;Cedro Tolua;Pochote;Cedro Tolua;Ceiba Tolua;Cedro Macho;Saqui Saqui;Cedro Dulce;Murea;Saqui-Saqui,BZ;CR;SV;GT;HN;NI;PA;CO;VE
+102,Bombax,brevicuspe,Kpatin Dehun;Ovong;N’Demo;Kondroti;Alone;Ogumalanga;Bombax;Meguza;Mungusa;Awori;Mfume;East African Bombax;Kondroti,BJ;CM;CG;CI;GA;GH;MZ;NG;TZ;GB
+103,Bombax,buonopozense,Kapokier,
+104,Bombax,chevalieri,Kpatin Dehun;Ovong;N’Demo;Kondroti;Alone;Ogumalanga;Bombax;Meguza;Mungusa;Awori;Mfume;East African Bombax;Kondroti,BJ;CM;CG;CI;GA;GH;MZ;NG;TZ;GB
+105,Bombax,flammeum,Kapokier,
+106,Bombax,pentandrum,Doum;Fuma;Enia;Fromager;Onyina;Ghe;Okha;Araba;Ngwe;Banda;Fuma;Fromager;Ceiba;Ceiba;Fromager;Fuma,CM;CG;CI;GH;LR;NG;SL;CD;FR;DE;GB
+107,Bombax,rhodognaphalon,Kpatin Dehun;Ovong;N’Demo;Kondroti;Alone;Ogumalanga;Bombax;Meguza;Mungusa;Awori;Mfume;East African Bombax;Kondroti,BJ;CM;CG;CI;GA;GH;MZ;NG;TZ;GB
+108,Bowdichia,nitida,Sucupira;Sapurira;Arenillo;Zapan Negro;Coeur dehors;Baaka;Tatabu;Chontaquiro;Huasai-Caspi;Zwarte Kabbes;Congrio;Alcornoque;Sucupira,BR;CO;GF;GY;PE;SR;VE
+109,Brachylaena,huillensis,Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Laeveldvaalbos;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Low Veld Brachyleana;Low Veld Silver Oak;Silver Oak;Mühühü,CG;KE;ZA;TZ;UG;GB
+110,Brachylaena,hutchinsii,Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Laeveldvaalbos;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Mkalambaki;Mkarambati;Muhugu;Muhuhu;Mvumo;Low Veld Brachyleana;Low Veld Silver Oak;Silver Oak;Mühühü,CG;KE;ZA;TZ;UG;GB
+111,Brachystegia,boehmii,Miombo;Mjombo,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+112,Brachystegia,cynometroides,Ekop-Naga;Meblo;Mendou;Tebako;Okwen;Bogdei;Okwen;Naga,CM;CI;GA;LR;NG;SL;GB
+113,Brachystegia,eurycoma,Ekop-Naga;Meblo;Mendou;Tebako;Okwen;Bogdei;Okwen;Naga,CM;CI;GA;LR;NG;SL;GB
+114,Brachystegia,laurentii,Ekop-Evene;Ekop-Leke;Bomanga;Bomanga;Nzang;Yegna;Ariella;Ariella;Bomanga,CM;CG;CD;GA;FR;GB
+115,Brachystegia,leonensis,Ekop-Naga;Meblo;Mendou;Tebako;Okwen;Bogdei;Okwen;Naga,CM;CI;GA;LR;NG;SL;GB
+116,Brachystegia,mildbraedii,Ekop-Evene;Ekop-Leke;Bomanga;Bomanga;Nzang;Yegna;Ariella;Ariella;Bomanga,CM;CG;CD;GA;FR;GB
+117,Brachystegia,nigerica,Ekop-Naga;Meblo;Mendou;Tebako;Okwen;Bogdei;Okwen;Naga,CM;CI;GA;LR;NG;SL;GB
+118,Brachystegia,nzang,Ekop-Evene;Ekop-Leke;Bomanga;Bomanga;Nzang;Yegna;Ariella;Ariella;Bomanga,CM;CG;CD;GA;FR;GB
+119,Brachystegia,spiciformis,Messassa,
+120,Brachystegia,zenkeri,Ekop-Evene;Ekop-Leke;Bomanga;Bomanga;Nzang;Yegna;Ariella;Ariella;Bomanga,CM;CG;CD;GA;FR;GB
+121,Breviea,leptosperma,Apobeaou,
+122,Bridelia,aubrevillei,Assas,
+123,Brosimum,alicastrum,Charo;Ramón;Capomo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+124,Brosimum,guianense,Lettre Mouchete;Mourette;Cashiba Playa;Waira Caspi;Belokoro;Peni-Paia;Poevinga;Palo de Oro;Snakewood;Amourette,GF;PE;SR;VE;GB
+125,Brosimum,parinarioides,Amapá Doce;Amapa,BR
+126,Brosimum,rubescens,Amapa Rana;Conduru;Falso Pao Brasil;Muirapiranga;Pau Rainha;Satine;Satine Rouge;Satine Rubaine;Siton Paya;Satinwood;Doekaliballi;Satijnhout;Legno Satino;Ferolia;Palo de Oro;Bloodwood;Muira-piranga,BR;GF;GY;SR;IT;ES;GB
+127,Brownea,,Rose of the Mountain,
+128,Buchenavia,,Tanimbuca,
+129,Bucida,buceras,Black Olive;Bois Gris-Gris;Bois Margot;Gregre;Júcaro;Oxhorn Bucida;Ucar;Jùraco,MX;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+130,Bulnesia,sarmientoi,Galacwood,
+131,Burkea,africana,Mukarati,
+132,Bursera,simaruba,Almácigo;Almácigo Blanco;Chacaj Chaca-Jiote;Desnudo;Gumo-Limbo;Indio Desnudo;Indo Desnudo;Jiñocuave;Bois d'encens;Chiboue;Chique;Gommier blanc;Gum tree;Mexican White Beach;Turpentine Tree;West Indian Birch;Almácigo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;FR;GB
+133,Butyrospermum,paradoxum,Shea Butter Tree;Shea Tree;Shi Tree;Karité,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+134,Butyrospermum,parkii,Shea Butter Tree;Shea Tree;Shi Tree;Karité,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+135,Caesalpinia,echinata,Brasileto;Ibirapitanga;Orabutá;Pernambuco;Pau Brasil;Pau Rosado;Pernambouc,BR
+136,Caesalpinia,pluviosa,False Brazilwood;Sibipiruna;Momoqui,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+137,Calophyllum,brasiliense,Árbol de santa María;Calophylle du Brésil;Guanandi;Maria;Santa Maria;Jacareuba,BR
+138,Calophyllum,,Bintangor,ID;MG;MY;MM;NC;PG;PH;SB;LK;TH;VN;VU
+139,Calycophyllum,spruceanum,Capirona;Pau mulato,EC
+140,Campnosperma,gummifera,Orey,
+141,Campnosperma,panamense,Orey,
+142,Canarium,schweinfurtii,M’bili;Abel;Gberi;M’bili;Abeul;Ovili;Bediwunua;Eyere;Abe;Elemi;Mwafu;Bidikala;M’bidikala;Billi;Canarium;Aielé,AO;CM;CF;CG;GA;GH;GQ;NG;UG;CD;SL;GB
+143,Canarium,,Kedondong,IN;ID;MY;PH;TH;VN
+144,Carallia,borneensis,Karibas;Kemuning Hutan;Magtungod;Meransi,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+145,Carallia,,Meransi,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+146,Carapa,grandiflora,Alla;Dona;Bete;Krupi;Toon-kor-dah;Agogo;Gobi;Kowi;Mujogo;Mutongana;African Crabwood;African Crabwood;Crabwood d’Afrique,CI;GH;LR;NG;SL;UG;US;GB
+147,Carapa,guianensis,Andiroba;Carapa;Andirobeira;Andiroba Branca;Andiroba Vermelha;Masabalo;Mazabalo;Cedro Bateo;Cedro Macho;Tangare;Figueroa;Crabwood;Carapa;Bastard Mahogany;Cedro Macho;Cedro Bateo;Cedro Macho;Krappa;Crappo;Carapa;Masabalo;Andiroba,BR;CO;CR;EC;GY;GF;HN;PA;SR;TT;VE
+148,Carapa,procera,Andiroba;Carapa;Andirobeira;Andiroba Branca;Andiroba Vermelha;Masabalo;Mazabalo;Cedro Bateo;Cedro Macho;Tangare;Figueroa;Crabwood;Carapa;Bastard Mahogany;Cedro Macho;Cedro Bateo;Cedro Macho;Krappa;Crappo;Carapa;Masabalo;Andiroba,BR;CO;CR;EC;GY;GF;HN;PA;SR;TT;VE
+149,Carapa,,Crabwood d’Afrique,CI;GH;LR;NG;SL;UG;US;GB
+150,Cariniana,brasiliensis,Yesquero;Jequitiba;Jequitiba Branco;Jequitiba Rosa;Jequitiba Vermelho;Estopeiro;Jequitiba,BO;BR
+151,Cariniana,decandra,Cachimbo,
+152,Cariniana,integrifolia,Yesquero;Jequitiba;Jequitiba Branco;Jequitiba Rosa;Jequitiba Vermelho;Estopeiro;Jequitiba,BO;BR
+153,Cariniana,legalis,Yesquero;Jequitiba;Jequitiba Branco;Jequitiba Rosa;Jequitiba Vermelho;Estopeiro;Jequitiba,BO;BR
+154,Cariniana,pyriformis,Bacu;Abarco,VE
+155,Caryocar,costaricense,Piquia;Almendrillo;Almendron;Cagui;Aji;Ajillo;Pekia;Sawarie;Piquia,BR;CO;CR;GY;SR
+156,Caryocar,,Piquia,BR;CO;CR;GY;SR
+157,Cassia,siamea,Bombay Blackwood;Iron Wood;Kassod Tree;Siamese Senna;Thailand Shower;Yellow Cassia;Casse de Siam;Djohar,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN;FR
+158,Cassipourea,elliottii,Pillarwood,
+159,Cassipourea,malosana,Pillarwood,
+160,Cassipourea,,Pillarwood,
+161,Castanopsis,,Castanopsis,
+162,Catostemma,fragrans,Arenillo;Baramalli;Baraman;Baramanni;Flambeau Rouge;Kajoewaballi;Baromalli,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+163,Cedrela,angustifolia,Cedro;Cedrat;Cedro;Red Cedar;Cedro;Cigarbox;Ceder;Cedro,BR;GF;GY;HN;SR
+164,Cedrela,fissilis,Cedro;Cedrat;Cedro;Red Cedar;Cedro;Cigarbox;Ceder;Cedro,BR;GF;GY;HN;SR
+165,Cedrela,lilloi,Cedro;Cedrat;Cedro;Red Cedar;Cedro;Cigarbox;Ceder;Cedro,BR;GF;GY;HN;SR
+166,Cedrela,odorata,Cedro;Cedrat;Cedro;Red Cedar;Cedro;Cigarbox;Ceder;Cedro,BR;GF;GY;HN;SR
+167,Cedrela,toona,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+168,Cedrela,,Cedro,BR;GF;GY;HN;SR
+169,Ceiba,pentandra,Araba;Kankantrie;Koemaka;Ghe;Ceibon;Toborochi;Sumauma;Silk Cotton;Onyina;Ngwe;Ceiba Yucca;Kumaka;Enia;Doum;Huimba;Okha;Piton;Mahot coton;Bonga;Ceiba Uchuputu;Panya;Ceiba;Inup;Fromager;Bois coton;Fuma;Guambush;Mapajo;Banda;Paneira,BO;CM;SV;DE;GT;GH;BR;SL;GB;CD;FR;NI;PA;CG;LR;NG;EC;HN;GF;SR;CI;VE;CO;PE;GY;CR;BZ
+170,Ceiba,samauma,Ceiba;Mapajo;Toborochi;Sumauma;Paneira;Ceiba;Ceibon;Inup;Piton;Panya;Ceiba;Bonga;Ceiba Uchuputu;Guambush;Mahot coton;Fromager;Bois coton;Kumaka;Silk Cotton;Ceiba;Huimba;Kankantrie;Koemaka;Ceiba Yucca;Ceiba;Sumauma,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;EC;GF;GY;PE;SR;VE
+171,Ceiba,thonningii,Doum;Fuma;Enia;Fromager;Onyina;Ghe;Okha;Araba;Ngwe;Banda;Fuma;Fromager;Ceiba;Ceiba;Fromager;Fuma,CM;CG;CI;GH;LR;NG;SL;CD;FR;DE;GB
+172,Celtis,adolfi-friderici,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+173,Celtis,brieyi,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+174,Celtis,durandii,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+175,Celtis,gomphophylla,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+176,Celtis,mildbraedii,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+177,Celtis,tessmannii,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+178,Celtis,zenkeri,Bawe;Odou;Odou Vrai;Balze;Bolunde;Diania;Kayombo;Edou;Kiliakamba;Asan;Ba;Lohonfe;Engo;Celtis;Esa-Kokoo;Esa-Kosua;Shiunza;Lokonfi;Dunki;Ita;Zuwo;Ekembe-Bakaswa;Namanuka;Celtis;Red-Fruited White-Stinkwood;Diania;Ohia;Celtis d'Afrique,BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+179,Celtis,,"Celtis d'Afrique (Diania, Ohia)",BJ;CM;CF;CD;CG;CI;GA;GH;KE;LR;NG;UG;DE;GB
+180,Centrolobium,,Araribà,BR;CO;EC;PA;PY;VE
+181,Cephalosphaera,usambarensis,Mtambara,
+182,Chlorocardium,rodiei,Bibiru;Itauba Branca;Bibiru;Demerara;Greenheart;Beeberoe;Groenhart;Sipiroe;Viruviru;Greenheart,BR;GY;SR;VE
+183,Chlorophora,excelsa,Moreira;Abang;Kambala;Iroko;Mvuli;Mvule;Abang;Abang;Mandji;Odum;Semli;Tule Mufula;Iroko;Semli;Lusanga;Molundu;Mokongo;Kambala;Iroko,AO;CM;CG;CI;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;GQ;GA;GH;LR;MZ;NG;SL;CD;BE
+184,Chlorophora,regia,Moreira;Abang;Kambala;Iroko;Mvuli;Mvule;Abang;Abang;Mandji;Odum;Semli;Tule Mufula;Iroko;Semli;Lusanga;Molundu;Mokongo;Kambala;Iroko,AO;CM;CG;CI;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;GQ;GA;GH;LR;MZ;NG;SL;CD;BE
+185,Chlorophora,tinctoria,Tatayiva-Saiyu;Amarillo;Amarello;Taiuva;Dinde;Palo Amarillo;Palo de Mora;Barossa;Moral;Bois d'Orange;Moral,AR;BO;BR;CO;CR;MX;TT
+186,Chloroxylon,swietenia,Buruta;Ceylon Satinwood;East Indian Satinwood;Satin Ceylan,AF;AM;AZ;BH;BD;BT;BN;MM;KH;CN;CY;GE;HK;IN;ID;IR;IQ;IL;JP;JO;KZ;KP;KR;KW;KG;LA;LB;MO;MY;MV;MN;NP;OM;PK;PS;PH;QA;SA;SG;LK;SY;TW;TJ;TH;TR;TM;AE;UZ;VN;YE
+187,Chorisia,,Lupuna,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+188,Chrysophyllum,africanum;Gambeya,Abam;Bopambu;Longhi;Akatio;Anandio;Aningueri Rouge;M’bebame;Akasa;Ekpiro;Osan;Longhi,CM;CF;CG;CI;GA;GH;NG
+189,Chrysophyllum,giganteum,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+190,Chrysophyllum,lacourtianum,Abam;Bopambu;Longhi;Akatio;Anandio;Aningueri Rouge;M’bebame;Akasa;Ekpiro;Osan;Longhi,CM;CF;CG;CI;GA;GH;NG
+191,Chrysophyllum,lucentifolium,Abiu Casca;Abiurana;Abiurana Amarela;Abiurana Goiaba;Goiabao;Goyabao;Goiabao,BR
+192,Chrysophyllum,pomiferum,Limonaballi,
+193,Chrysophyllum,sanguinolentum,Assopokballi;Balata Pommier;Balata Saignant;Barataballi;Bois Cochon;Suitiamini;Balata pomme,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+194,Chrysophyllum,subnudum,Abam;Bopambu;Longhi;Akatio;Anandio;Aningueri Rouge;M’bebame;Akasa;Ekpiro;Osan;Longhi,CM;CF;CG;CI;GA;GH;NG
+195,Chrysophyllum,,Longhi,CM;CF;CG;CI;GA;GH;NG
+196,Cistanthera,papaverifera,Kissinhungo;Ovoe;Ovoui;Naouya;Kotibé;Aborbora;Danta;Otutu;Kondofindo;Danta;Kotibé,AO;CM;CF;CI;GA;GH;NG;CD;GB
+197,Citharexylum,fruticosum,Fiddlewood;Pombeira,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+198,Clarisia,racemosa,Murure;Guariuba;Oiticica Amarela;Oiticica da Mata;Aji;Guariuba;Mata Palo;Moral Bobo;Pituca;Capinuri;Guariuba;Murere;Turupay Amarillo;Guariuba,BO;BR;CO;EC;PE
+199,Clathrotropis,macrocarpa,Alma negra;Cabari;Sapan;Timbo Pau;Timbo Rana;Aromata,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+200,Clausena,melioides,Mfu;Mkunguni;Mtongoti;Muyinja;Mafu,TZ;KE
+201,Cleistopholis,glauca,Sobu,
+202,Cleistopholis,patens,Sobu,
+203,Coelocaryon,preussii,Nom Eteng;Kolomeko;Kikubi-Lomba;Lomba-Kumbi;Ekoune;Ekun;Ekoune;Ekun;Egbenrin;Ekoune,CM;CF;CG;CD;GQ;GA;NG
+204,Colophospermum,mopane,Mopaani,
+205,Copaifera,coleosperma,Muzaule;African Rosewood;Copalier;False Mopane;Mushibi;Musibi;Mussive;Muzaule;Muxibe;Rhodesian copalwood;Mutenyé;Mussibi,ZW;GB
+206,Copaifera,letestui,Lumbandjii;Gheombi;Ngom;Gheombi,CM;GA
+207,Copaifera,mildbraedii,Akpaflo;Essak;Bilombi;Yama;Etimoé;Bofelele;Andem-Evine;Entedua;Ovbialeke;Etimoé,BJ;CM;CF;CG;CI;CD;GA;GH;NG
+208,Copaifera,mopane,Mopaani,
+209,Copaifera,palustris,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+210,Copaifera,religiosa,Anzem;Bengi;N’téné,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+211,Copaifera,salikounda,Akpaflo;Essak;Bilombi;Yama;Etimoé;Bofelele;Andem-Evine;Entedua;Ovbialeke;Etimoé,BJ;CM;CF;CG;CI;CD;GA;GH;NG
+212,Copaifera,,Copaiba,AR;BR;CO;PA;VE
+213,Cordia,abyssinica,Ebais;Ebe;Sumba;Makobokobo;Mringamringa;Mringaringa;Mukumari;Auhi;Awhi;Ekhi;Ebais;Ebe;Omo;Mukebu;African Cordia;East African cordia;Large-leafed cordia;Sudan teak;Cordia d’Afrique,CM;CF;CG;ET;GA;NG;UG;GB
+214,Cordia,africana,Ebais;Ebe;Sumba;Makobokobo;Mringamringa;Mringaringa;Mukumari;Auhi;Awhi;Ekhi;Ebais;Ebe;Omo;Mukebu;African Cordia;East African cordia;Large-leafed cordia;Sudan teak;Cordia d’Afrique,CM;CF;CG;ET;GA;NG;UG;GB
+215,Cordia,goeldiana,Freijo;Frei-Jorge;Freijo,BR
+216,Cordia,holstii,Ebais;Ebe;Sumba;Makobokobo;Mringamringa;Mringaringa;Mukumari;Auhi;Awhi;Ekhi;Ebais;Ebe;Omo;Mukebu;African Cordia;East African cordia;Large-leafed cordia;Sudan teak;Cordia d’Afrique,CM;CF;CG;ET;GA;NG;UG;GB
+217,Cordia,millenii,Ebais;Ebe;Sumba;Makobokobo;Mringamringa;Mringaringa;Mukumari;Auhi;Awhi;Ekhi;Ebais;Ebe;Omo;Mukebu;African Cordia;East African cordia;Large-leafed cordia;Sudan teak;Cordia d’Afrique,CM;CF;CG;ET;GA;NG;UG;GB
+218,Cordia,platythyrsa,Ebais;Ebe;Sumba;Makobokobo;Mringamringa;Mringaringa;Mukumari;Auhi;Awhi;Ekhi;Ebais;Ebe;Omo;Mukebu;African Cordia;East African cordia;Large-leafed cordia;Sudan teak;Cordia d’Afrique,CM;CF;CG;ET;GA;NG;UG;GB
+219,Cordia,,Cordia d’Afrique;Canalete,ET;CM;GB;CG;VE;CO;AR;GA;NG;BR;CF;CU;UG;MX
+220,Cordyla,africana,Mroma;Mpachamu;Mgwata;Metondo,TZ
+221,Corynanthe,bequaertii,Tsanya,
+222,Corynanthe,paniculata,Tsanya,
+223,Coula,edulis,Coula,
+224,Coumarouna,oppositifolia,Cumaru Rana;Shihuahuaco;Tarala;Almendrillo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+225,Couratari,,Tauari,BR;GY;GF;SR;VE
+226,Cratoxylum,arborescens,Gerunggang;Mapat;Mulu;Selunus;Gonggang;Serungan;Geronggang,ID;MY
+227,Cratoxylum,glaucum,Gerunggang;Mapat;Mulu;Selunus;Gonggang;Serungan;Geronggang,ID;MY
+228,Cratoxylum,lingustrinum,Gerunggang;Mapat;Mulu;Selunus;Gonggang;Serungan;Geronggang,ID;MY
+229,Cratoxylum,polyanthum,Gerunggang;Mapat;Mulu;Selunus;Gonggang;Serungan;Geronggang,ID;MY
+230,Croton,megalocarpus,Musine,
+231,Cryptosepalum,staudtii,Tani,
+232,Cylicodiscus,gabunensis,Adoum;African Greenheart;Bokoka;N'Duma;Bouemon;Edoum;Oduma;Adadua;Benya;Denya;Okan;Okan,CM;CG;CI;GA;GH;NG
+233,Cynometra,alexandri,Angu;Baira;Bapa;Bosengere;Kahimbi;Kampiniungu;Lukuanga;Mbombele;Mubale;Mubangu;Mubindi;Mudindi;Muhindi;Mupombe;Tembwe;Uganda Ironwood;Muhimbi,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+234,Cynometra,hankei,Nganga,
+235,Cynometra,,Kekatong;Nganga,MY;FJ;MM;PH;TH
+236,Dacryodes,buettneri,Assia;Ozigo;Assia;Assia;Ozigo,GQ;GA;DE
+237,Dacryodes,igaganga,Igaganga,
+238,Dacryodes,klaineana,Mouguengueri;Safukala;Assia;Igaganga;Ossabel;Adjouaba,CD;CG;GA
+239,Dacryodes,pubescens,Safukala,
+240,Dacryodes,,Kedondong,IN;ID;MY;PH;TH;VN
+241,Dactylocladus,stenostachys,Mentibu;Sampinur;Medang-Tabak;Jongkong;Medang;Merubong;Jongkong,ID;MY
+242,Dalbergia,bariensis,East Indian Palisander;East Indian rosewood;Neang Nuon;Palissandre d’Asie;Tamalan;Palissandre d'Asie,KH;LA;TH;VN
+243,Dalbergia,cambodiana,East Indian Palisander;East Indian rosewood;Neang Nuon;Palissandre d’Asie;Tamalan;Palissandre d'Asie,KH;LA;TH;VN
+244,Dalbergia,cochinchinensis,East Indian Palisander;East Indian rosewood;Neang Nuon;Palissandre d’Asie;Tamalan;Palissandre d'Asie,KH;LA;TH;VN
+245,Dalbergia,darienensis,Palissandre Panama,
+246,Dalbergia,decipularis,Pau Rosa;Bois de rose femelle;Palissandre de Rose,BR;GF
+247,Dalbergia,latifolia,East Indian Palisander;East Indian rosewood;Neang Nuon;Palissandre d’Asie;Tamalan;Palissandre d'Asie,KH;LA;TH;VN
+248,Dalbergia,louveli,Bois de rose de Madagascar;Madagascar rosewood;Palissandre de Madagascar,FR;GB
+249,Dalbergia,melanoxylon,Tabum;Kafundula;Zobbi;Zebe;Kikwaju;Mpingo;Poyi;Driedoring Ebbehout;Mokelete;Sebrahout;Swartdriedoring;Umbambangwe;Motangu;Chinsale;Kasalusalu;Mfwankomo;Mkelete;Mkumudwe;Msalu;Mukelete;Musonkomo;Murwiti;Pulupulu;African blackwood;African ebony;Mugembe;Poyi;Grenadille d’Afrique,TD;CD;ET;KE;NA;ZA;UG;ZM;ZW;GB
+250,Dalbergia,monticola,Bois de rose de Madagascar;Madagascar rosewood;Palissandre de Madagascar,FR;GB
+251,Dalbergia,nigra,Palissandre Rio,
+252,Dalbergia,normandii,Bois de rose de Madagascar;Madagascar rosewood;Palissandre de Madagascar,FR;GB
+253,Dalbergia,oliveri,East Indian rosewood;Palissandre d’Asie;Tamalan;East Indian Palisander;Ching-Chan;Ket-Daeng;Palissandre d'Asie;Burmese Rosewood;Neang Nuon,VN;LA;MM;TH;KH
+254,Dalbergia,purpurascens,Bois de rose de Madagascar;Madagascar rosewood;Palissandre de Madagascar,FR;GB
+255,Dalbergia,retusa,Cocobolo,
+256,Dalbergia,sissoo,East Indian Palisander;East Indian rosewood;Neang Nuon;Palissandre d’Asie;Tamalan;Palissandre d'Asie,KH;LA;TH;VN
+257,Dalbergia,spruceana,Caviuna;We-We;Jacaranda;Palissandre Rio;Palissander;Palisandro;Brazilian Rosewood;Jacaranda Pardo;Brazilian Rosewood;Shitan;Palissandre Para,BR;FR;DE;ES;GB;US;JP
+258,Dalbergia,stevensonii,Palissandre Honduras,
+259,Dalbergia,tucurensis,Palissandre de Guatemala,
+260,Dalbergia,xerophila,Bois de rose de Madagascar;Madagascar rosewood;Palissandre de Madagascar,FR;GB
+261,Dalbergia,,Palissandre de Madagascar,FR;GB
+262,Daniellia,klainei,Jatin;Nsou;Singa N'Dola;Faro;Bolengu;N'Su;Lonlaviol;Ogea;Oziya;Gnessi;Daniellia;Ogea;Faro,BJ;CM;CG;CI;CD;GQ;GA;GH;NG;SL;DE;GB
+263,Daniellia,ogea,Jatin;Nsou;Singa N'Dola;Faro;Bolengu;N'Su;Lonlaviol;Ogea;Oziya;Gnessi;Daniellia;Ogea;Faro,BJ;CM;CG;CI;CD;GQ;GA;GH;NG;SL;DE;GB
+264,Daniellia,thurifera,Jatin;Nsou;Singa N'Dola;Faro;Bolengu;N'Su;Lonlaviol;Ogea;Oziya;Gnessi;Daniellia;Ogea;Faro,BJ;CM;CG;CI;CD;GQ;GA;GH;NG;SL;DE;GB
+265,Daniellia,,Faro,BJ;CM;CG;CI;CD;GQ;GA;GH;NG;SL;DE;GB
+266,Desbordesia,glaucescens,Omang;Benga;Alep;Kowo;Benga;Alep,CM;CG;GA;NG;CD
+267,Detarium,macrocarpum,Dankh;Petit Détar;Sweet Dattock;Manbodé,BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG;AO;CM;CF;TD;CG;CD;GQ;GA;ST
+268,Detarium,senegalense,Dankh;Petit Détar;Sweet Dattock;Manbodé,BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG;AO;CM;CF;TD;CG;CD;GQ;GA;ST
+269,Dialium,aubrevillei,Mfang;M’Fan;Penzi;Afambeou;Kofina;Eyoum;Omvong;Pau Veludo;Ciania;Gbelle-Flu;Gia Kaba;Ziba;Bongola;Kasudu;Eyoum,CM;CG;CI;GA;GW;LR;MZ;CD
+270,Dialium,bipindense,Mfang;M’Fan;Penzi;Afambeou;Kofina;Eyoum;Omvong;Pau Veludo;Ciania;Gbelle-Flu;Gia Kaba;Ziba;Bongola;Kasudu;Eyoum,CM;CG;CI;GA;GW;LR;MZ;CD
+271,Dialium,dinklagei,Mfang;M’Fan;Penzi;Afambeou;Kofina;Eyoum;Omvong;Pau Veludo;Ciania;Gbelle-Flu;Gia Kaba;Ziba;Bongola;Kasudu;Eyoum,CM;CG;CI;GA;GW;LR;MZ;CD
+272,Dialium,pachyphyllum,Mfang;M’Fan;Penzi;Afambeou;Kofina;Eyoum;Omvong;Pau Veludo;Ciania;Gbelle-Flu;Gia Kaba;Ziba;Bongola;Kasudu;Eyoum,CM;CG;CI;GA;GW;LR;MZ;CD
+273,Dialium,,Eyoum;Keranji,CM;GB;CG;MZ;GA;ID;LR;VN;CD;MM;GW;TH;KH;CI
+274,Dicorynia,guianensis,Angelica do Para;Tapainuna;Angelique;Basralokus;Barakaroeballi;Basralocus,BR;GF;SR
+275,Didelotia,africana,Ekop-Gombe;Gombe;Broutou;Angok;Bondu;Timba;Gombé,CM;CI;GA;LR;SL
+276,Didelotia,brevipaniculata,Toubaouaté,
+277,Didelotia,idae,Ekop-Gombe;Gombe;Broutou;Angok;Bondu;Timba;Gombé,CM;CI;GA;LR;SL
+278,Didelotia,letouzeyi,Ekop-Gombe;Gombe;Broutou;Angok;Bondu;Timba;Gombé,CM;CI;GA;LR;SL
+279,Didymopanax,morototoni,Ambayguazu;Mandioqueira;Yarumero;Yagrumo Macho;Yagrumo Macho;Chancaro Blanco;Yagrumo Macho;Kasavehout;Morototo;Tinajero;Morototo,AR;BR;CO;CU;DO;MX;PR;SR;VE
+280,Dillenia,aurea,Sempur;Simpur;Simpor;Mai-Masan;Zinbyum;Katmon;Masan;San;Simpoh,ID;MY;MM;PH;TH
+281,Dillenia,eximia,Sempur;Simpur;Simpor;Mai-Masan;Zinbyum;Katmon;Masan;San;Simpoh,ID;MY;MM;PH;TH
+282,Dillenia,,Simpoh,ID;MY;MM;PH;TH
+283,Dimorphandra,,Aiéouéko,
+284,Dinizia,excelsa,Angelim Falso;Angelim Ferro;Angelim Pedra;Faveira Grande;Faveira Preta;Gurupa;Parakwa;Angelim vermelho,BR;GY
+285,Diospyros,burmanica,Burmese Ebony;Hpunmang;Maimakho-Ling;Mia-Mate-Si;Te;Burmese Ebony,MM
+286,Diospyros,celebica,Ebène veinée d’Asie,
+287,Diospyros,crassiflora,Cubaga;Ebène;Epinde-pinde;Mavini;Mevini;Ndou;Bingo;Ngoubou;Mopini;Ébano;Evila;Abokpo;Kanran;Nyareti;Osibin;Afrikanishes Ebenholz;African ebony;Madagascar ebony;Ebène Madagascar;Ebène d'Afrique,BJ;CM;CF;CG;GQ;GA;NG;DE;GB
+288,Diospyros,ebenum,Ebène noire d’Asie,
+289,Diospyros,evila,Cubaga;Ebène;Epinde-pinde;Mavini;Mevini;Ndou;Bingo;Ngoubou;Mopini;Ébano;Evila;Abokpo;Kanran;Nyareti;Osibin;Afrikanishes Ebenholz;African ebony;Madagascar ebony;Ebène Madagascar;Ebène d'Afrique,BJ;CM;CF;CG;GQ;GA;NG;DE;GB
+290,Diospyros,ferrea,Ebène noire d’Asie,
+291,Diospyros,marmorata,Ebène veinée d’Asie,
+292,Diospyros,melanoxylon,Ebène noire d’Asie,
+293,Diospyros,mollis,Ebène noire d’Asie,
+294,Diospyros,mun,Ebène noire d’Asie,
+295,Diospyros,perrieri,Cubaga;Ebène;Epinde-pinde;Mavini;Mevini;Ndou;Bingo;Ngoubou;Mopini;Ébano;Evila;Abokpo;Kanran;Nyareti;Osibin;Afrikanishes Ebenholz;African ebony;Madagascar ebony;Ebène Madagascar;Ebène d'Afrique,BJ;CM;CF;CG;GQ;GA;NG;DE;GB
+296,Diospyros,rumphii,Ebène veinée d’Asie,
+297,Diospyros,,Ebène d'Afrique (Ebène Madagascar),BJ;CM;CF;CG;GQ;GA;NG;DE;GB
+298,Diosyros,vera,Ebène noire d’Asie,
+299,Diplotropis,martiusii,Sucupira;Sapurira;Arenillo;Zapan Negro;Coeur dehors;Baaka;Tatabu;Chontaquiro;Huasai-Caspi;Zwarte Kabbes;Congrio;Alcornoque;Sucupira,BR;CO;GF;GY;PE;SR;VE
+300,Diplotropis,purpurea,Sucupira;Sapurira;Arenillo;Zapan Negro;Coeur dehors;Baaka;Tatabu;Chontaquiro;Huasai-Caspi;Zwarte Kabbes;Congrio;Alcornoque;Sucupira,BR;CO;GF;GY;PE;SR;VE
+301,Dipterocarpus,acutangulus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+302,Dipterocarpus,alatus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+303,Dipterocarpus,appendiculatus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+304,Dipterocarpus,baudii,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+305,Dipterocarpus,cornutus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+306,Dipterocarpus,costulatus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+307,Dipterocarpus,kerrii,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+308,Dipterocarpus,verrucosus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+309,Dipterocarpus,,Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+310,Dipteryx,,Cumaru,BO;BR;CO;GY;GF;HN;PE;SR;VE
+311,Diptrocarpus,gracilis;Dipterocarpus,Chloeuteal;Dau;Khlong;Thbeng;Gurjun;Keroeing;Nhang;Keruing Gaga;Keruing Bajak;Keruing Beras;Yang;Kanyin;Apitong;Hora;Yang;Yaou;Dau;Tro;Keruing,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+312,Distemonanthus,benthamianus,Ayan;Eyen;Barre;Eyen;Eyen;Movingui;Ayan;Ayan;Ayanran;Ayan;Distemonanthus;Movingui,BJ;CM;CI;GQ;GA;GH;NG;GB
+313,Dracontomelon,dao,Sengkulang;Dao;Ulandug;Lamio;Paldao,MY;PH
+314,Dracontomelon,edule,Sengkulang;Dao;Ulandug;Lamio;Paldao,MY;PH
+315,Dracontomelon,sylvestre,Sengkulang;Dao;Ulandug;Lamio;Paldao,MY;PH
+316,Dryobalanops,aromatica,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+317,Dryobalanops,beccarii,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+318,Dryobalanops,fusca,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+319,Dryobalanops,lanceolata,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+320,Dryobalanops,oblongifolia,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+321,Dryobalanops,rappa,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+322,Dryobalanops,sumatrensis,Kapur Bukit;Kapur Peringii;Kapur Anggi;Kapur Singkel;Kapur Sintuk;Kapur Empedu;Kapur Tanduk;Kapur Kayatan;Petanang;Kapur-Kejatan;Keladan;Swamp Kapur;Borneo Camphorwood-Paigie;Capur;Borneo Camphor;Borneo Camphorwood;Borneo Camphorwood-Paigie;Kapur,BN;ID;MY;FR;GB
+323,Dryobalanops,,Kapur,BN;ID;MY;FR;GB
+324,Drypetes,gossweileri,Yungu,
+325,Duabanga,grandiflora,Lampati Ramdala;Kalam;Magas;Magaswith;Phay-Sung;Tagahas;Myaukngo;Duabanga;Loktob;Linkwai;Phay;Duabanga,IN;ID;MY;MM;PG;PH;TH;VN
+326,Duboscia,viridiflora,Akak,
+327,Dumoria,africana,Makoré;Baku;Abacu;Okola;Douka;Makoré;Douka,CI;GH;GQ;GA
+328,Durio,,Durian,ID;MY;FR;GB
+329,Dyera,costulata,Jelutong;Djelutong;Melabuwai;Jelutong;Andjaroetoeng;Letoeng;Pantoeng;Jelutong Bukit;Jelutong Paya;Red and/or White Jelutong;Jelutong,ID;MY;SG
+330,Dyera,lowii,Jelutong;Djelutong;Melabuwai;Jelutong;Andjaroetoeng;Letoeng;Pantoeng;Jelutong Bukit;Jelutong Paya;Red and/or White Jelutong;Jelutong,ID;MY;SG
+331,Dyera,polyphylla,Jelutong;Djelutong;Melabuwai;Jelutong;Andjaroetoeng;Letoeng;Pantoeng;Jelutong Bukit;Jelutong Paya;Red and/or White Jelutong;Jelutong,ID;MY;SG
+332,Enantia,chlorantha,African whitewood;Moambé jaune,GB
+333,Enantia,,Moambé jaune,GB
+334,Endospermum,,Sesendok,FJ;ID;MY;PH;PG
+335,Entandrophragma,angolense,Acuminata;Livuité;Kiluka;Tiama;Dongomanguila;Abeubêgne;Edinam;Gêdu-Nohor;Mukusu;Lifaki;Vovo;Tiama-Mahagoni;Gêdu-Nohor;Tiama,AO;CG;CI;GQ;GA;GH;NG;UG;CD;DE;GB
+336,Entandrophragma,candollei,Lifuco;Atom-Assie;Kosipo;Penkwa-Akowaa;Omu;Heavy Sapelle;Impompo;Kosipo-Mahagoni;Omu;Kosipo,AO;CM;CI;GH;NG;CD;DE;GB
+337,Entandrophragma,congoense,Acuminata;Livuité;Kiluka;Tiama;Dongomanguila;Abeubêgne;Edinam;Gêdu-Nohor;Mukusu;Lifaki;Vovo;Tiama-Mahagoni;Gêdu-Nohor;Tiama,AO;CG;CI;GQ;GA;GH;NG;UG;CD;DE;GB
+338,Entandrophragma,cylindricum,Undianuno;Assié-Sapelli;M’Boyo;Undianuno;Aboudikro;Penkwa;Sapele;Muyovu;Lifaki;Sapelli-Mahagoni;Sapele;Sapelli,AO;CM;CF;CG;CI;GH;NG;UG;CD;DE;GB
+339,Entandrophragma,ekebergioides,Mutaco,
+340,Entandrophragma,spicatum,Mutaco,
+341,Entandrophragma,utile,Kalungi;Asseng-Assié;Sipo;Abebay;Assi;Utile;Utile;Mufumbi;Liboyo;Sipo-Mahagoni;Utile;Sipo,AO;CM;CI;GQ;GA;GH;NG;UG;CD;DE;GB
+342,Enterolobium,contortisiliquum,Caro-Caro;Orejero;Pacara Earpod Tree;Tamboril;Timbo-Colorado;Timbo;Timbo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+343,Enterolobium,schomburgkii,Batibatra;Fava de Rosca;Fava Orelha de Macaco;Fava Orelha de Negro;Timbauba;Timborana;Acacia Franc;Bougou Bati Batra;Tamaren Prokoni;Batibatra,BR;GF;SR
+344,Eperua,,Walaba,BR;GF;GY;SR;VE
+345,Eribroma,oblongum,Bongele;Eyong;Bongo;Bi;N’Chong;N’Zong;N’Chong;N’Zong;Ohaa;Okoko;White Sterculia;Yellow Sterculia;Eyong,CM;CF;CI;GQ;GA;GH;NG;GB
+346,Erisma,uncinatum,Quarubarana;Jaboty;Cedrinho;Cambara;Quarubatinga;Quaruba;Vermelha;Jaboty;Manonti Kouali;Felli Kouali;Cambara;Singri-Kwari;Mureillo;Cambara;Jaboty;Cambara,BR;GF;PE;SR;VE;DE
+347,Erisma,,Cambara (Jaboty),BR;GF;PE;SR;VE;DE
+348,Erythrophleum,ivorense,Elone;N'Kassa;Alui;Tali;Eloun;Elondo;Eloun;Potrodom;Mancone;Missanda;Sasswood;Tali;Gogbei;Mwavi;Muave;Missandra;Tali,CM;CG;CI;CD;GQ;GA;GH;GW;MZ;NG;SN;SL;TZ;ZM;GB
+349,Erythrophleum,suaveolens;Erythrophleum,Elone;N'Kassa;Alui;Tali;Eloun;Elondo;Eloun;Potrodom;Mancone;Missanda;Sasswood;Tali;Gogbei;Mwavi;Muave;Missandra;Tali,CM;CG;CI;CD;GQ;GA;GH;GW;MZ;NG;SN;SL;TZ;ZM;GB
+350,Erythrophleum,,Tali,CM;CG;CI;CD;GQ;GA;GH;GW;MZ;NG;SN;SL;TZ;ZM;GB
+351,Erythroxylum,mannii,Landa;Lukienzo;Dabe;Landa;Nkanza;Bimini;Landa,CM;CG;CI;GA;CD;SL
+352,Eschweilera,amara,Mata-Mata;Matamata Preto;Baakalaka;Baikaaki;Balibon;Kouanda;Maho;Mahot Noir;Mahou;Black Kakaralli;Kakaralli;Hoogland Barklak;Manbarklak;Mata-Mata,BR;GF;GY;SR
+353,Eschweilera,grandiflora,Sapucaia;Sapukaina;Sapucaia,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+354,Eschweilera,,Mata-Mata,BR;GF;GY;SR
+355,Eugenia,,Kelat,IN;ID;MY;MM;PG;PH;TH;VN
+356,Eusideroxylon,melagangai,Malagangai,
+357,Eusideroxylon,zwageri,Onglen;Un;Tambulian;Billian,ID;PH
+358,Euxylophora,paraensis,Pau amarelo,
+359,Fagara,heitzii,Bongo;M'Banza;Kamasumu;Olong;Olon;Olon,CM;CG;CD;GQ;GA
+360,Fagara,inaequalis,Olonvogo,
+361,Fagara,macrophylla,Olonvogo,
+362,Fagara,tessmannii,Olonvogo,
+363,Fagaropsis,angolensis,Mfu;Mkunguni;Mtongoti;Muyinja;Mafu,TZ;KE
+364,Fagraea,fragrans,Tatro;Trai;Buabua;Temasuk;Anan;Ananma;Urung;Tembusu,KH;FJ;MY;MM;PH
+365,Fillaeopsis,discophora,Nieuk,
+366,Funtumia,africana,Mutondo,
+367,Funtumia,elastica,Mutondo,
+368,Funtumia,latifolia,Mutondo,
+369,Gambeya,lacourtiana,Abam;Bopambu;Longhi;Akatio;Anandio;Aningueri Rouge;M’bebame;Akasa;Ekpiro;Osan;Longhi,CM;CF;CG;CI;GA;GH;NG
+370,Gambeya,subnuda,Abam;Bopambu;Longhi;Akatio;Anandio;Aningueri Rouge;M’bebame;Akasa;Ekpiro;Osan;Longhi,CM;CF;CG;CI;GA;GH;NG
+371,Gambeyobotrys,gigantea,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+372,Ganua,motleyana,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+373,Gilbertiodendron,dewevrei,Ekobem;Molapa;Epal;Vaa;Ditshipi;Ligudu;Limbali;Abeum;Tetekon;Sehmeh;Limbali,CM;CF;CG;CI;CD;GA;GH;LR
+374,Gilbertiodendron,preussii,Ekobem;Molapa;Epal;Vaa;Ditshipi;Ligudu;Limbali;Abeum;Tetekon;Sehmeh;Limbali,CM;CF;CG;CI;CD;GA;GH;LR
+375,Gilbertiodendron,,Limbali,CM;CF;CG;CI;CD;GA;GH;LR
+376,Gluta,,Rengas,MY;MM;ID;TH
+377,Glycydendron,amazonicum,Mirindiba-Doce;Pau-de-Casca-Doce;Mirindiba-Doce,BR
+378,Gmelina,arborea,Gamar;Gamari;Gomari;Gumbar;Gumhar;Gambhar;Gomari;Gumhar;Kambhari;Sewan;Mai Saw;Yemane;Yemani;Yemari;Gamari;Gambari;Gumhari;Khamari;Gumari;Saw;So;So-maeo;Gmelina;Melina;Peuplier d Afrique;Gumar-Teak;Gmelina;Melina;Beechwood;Gmelina;Goomar Teak;Kashmir Tree;Malay Beechwood;White Teak;Yemane;Yemane,BD;IN;MM;NP;TH;FR;DE;ES;GB
+379,Gmelina,vitiensis,Rosawa,
+380,Gonystylus,bancanus,Garu-Buaja;Akenia;Medang Keram;Melawis;Ramin Batu;Ramin Telur;Ahmin;Lantunan-Bagio;Ainunura;Latareko;Petata;Fungunigalo;Akenia;Ramin,ID;MY;PH;SB;CH
+381,Gonystylus,macrophyllus,Garu-Buaja;Akenia;Medang Keram;Melawis;Ramin Batu;Ramin Telur;Ahmin;Lantunan-Bagio;Ainunura;Latareko;Petata;Fungunigalo;Akenia;Ramin,ID;MY;PH;SB;CH
+382,Gonystylus,philippinensis,Garu-Buaja;Akenia;Medang Keram;Melawis;Ramin Batu;Ramin Telur;Ahmin;Lantunan-Bagio;Ainunura;Latareko;Petata;Fungunigalo;Akenia;Ramin,ID;MY;PH;SB;CH
+383,Gonystylus,reticulatus,Garu-Buaja;Akenia;Medang Keram;Melawis;Ramin Batu;Ramin Telur;Ahmin;Lantunan-Bagio;Ainunura;Latareko;Petata;Fungunigalo;Akenia;Ramin,ID;MY;PH;SB;CH
+384,Gossweilerodendron,balsamiferum,Tola branca;Sinedon;Tola;Tola blanc;Emolo;Agba;Ntola;Agba;Tola branca;Agba;Oduma;Tola,AO;CM;CG;GA;NG;CD;DE;GB
+385,Gossweilerodendron,joveri,Tola branca;Sinedon;Tola;Tola blanc;Emolo;Agba;Ntola;Agba;Tola branca;Agba;Oduma;Tola,AO;CM;CG;GA;NG;CD;DE;GB
+386,Goupia,glabra,Cachaceiro;Copiuva;Cupiuba;Chaquiro;Saino;Sapino;Goupi;Copi;Kabukalli;Capricornia;Koepi;Congrio Blanco;Kabulalli;Cupiuba,BR;CO;GF;GY;PE;SR;VE;GB
+387,Guaiacum,,Gaiac,MX;VE;FR;DE;NL;ES;GB
+388,Guarea,cedrata,Bossé;Kwabohoro;Obobo Nofua;Bosasa;Bossé;Scented Guarea;Bossé clair,CI;GH;NG;CD;DE;GB
+389,Guarea,guara,Jito,
+390,Guarea,guidonia,Jito,
+391,Guarea,laurentii,Bossé;Kwabohoro;Obobo Nofua;Bosasa;Bossé;Scented Guarea;Bossé clair,CI;GH;NG;CD;DE;GB
+392,Guarea,thompsonii,Mutigbanaye;Bolon;Obobo Nekwi;Diampi;Diampi;Black Guarea;Bossé foncé,CI;KE;NG;CD;DE;GB
+393,Guarea,trichilioides,Jito,
+394,Guibourtia,arnoldiana,Muzaule;African Rosewood;Copalier;False Mopane;Mushibi;Musibi;Mussive;Muzaule;Muxibe;Rhodesian copalwood;Mutenyé;Mussibi,ZW;GB
+395,Guibourtia,coleosperma,Muzaule;African Rosewood;Copalier;False Mopane;Mushibi;Musibi;Mussive;Muzaule;Muxibe;Rhodesian copalwood;Mutenyé;Mussibi,ZW;GB
+396,Guibourtia,demeusei,Essingang;Buvenga;Kevasingo;Bubinga,CM;GA;GB
+397,Guibourtia,ehie,Amazakoue;Palissandro;Ovengkol;Hyeduanini;Anokye;Mozambique;Ovengkol,CI;GQ;GA;GH;US
+398,Guibourtia,pellegriniana,Essingang;Buvenga;Kevasingo;Bubinga,CM;GA;GB
+399,Guibourtia,tessmannii,Essingang;Buvenga;Kevasingo;Bubinga,CM;GA;GB
+400,Guibourtia,,Bubinga,CM;GA;GB
+401,Haldina,cordifolia,Khvao;Kwao;Haldu;Lasi;Thom;Meraga;Hnaw;Adina;Haldu;Kolon;Kwao;Tong Lueang;Gao-Vang;Haldu,KH;IN;ID;LA;MY;MM;PH;LK;TH;VN
+402,Hallea,ciliata,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+403,Hallea,rubrostipulata,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+404,Hallea,stipulosa,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+405,Handroanthus,capitatus,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+406,Handroanthus,heptaphyllus,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+407,Handroanthus,impetiginosus,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+408,Handroanthus,serratifolius,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+409,Haplormosia,monophylla,Black Gum;Liberian Black Gum;Idewa,LR
+410,Heritiera,albiflora,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+411,Heritiera,borneensis,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+412,Heritiera,densiflora,Niangon;Ogoue;Nyankom;Whismore;Yami;Niangon,CI;GA;GH;LR;SL
+413,Heritiera,javanica,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+414,Heritiera,kuenstleri,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+415,Heritiera,simplicifolia,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+416,Heritiera,sumatrana,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+417,Heritiera,utilis,Niangon;Ogoue;Nyankom;Whismore;Yami;Niangon,CI;GA;GH;LR;SL
+418,Heritiera,,Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+419,Hevea,brasiliensis,Mapalapa;Seringa;Seringueira;Hatti;Hevea Wood;Jeve;Shirenga;Rubber Tree;Arbol de Caucho;Para Rubber Tree;Rubber Wood;Hevea,BR;GY;MY;PE;TH;VE;GB;US
+420,Hieronyma,,Pilon,BZ;BR;CO;EC;HN;NI;VE
+421,Holoptelea,grandis,Sayo;Avep-Ele;Gomboul;Mbosso;Kékélé;Nemba-Mbobolo;Onakwa;Olazo;Mumuli;Kékélé,BJ;CM;CF;CG;CI;CD;GH;NG;UG
+422,Homalium,,Malas,ID;MY;PH;MM;LA
+423,Hopea,apiculata,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+424,Hopea,griffithii,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+425,Hopea,lowii,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+426,Hopea,mengarawan,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+427,Hopea,nervosa,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+428,Hopea,odorata,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+429,Hopea,papuana,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+430,Hopea,sangal,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+431,Hopea,sulcata,Koki;Merawan/Sengal;Merawan/Sengal;Gagil;Selangan;Selangan-Kasha;Thingan;Light Hopea;Manggachapui;Takhian;Sao;Sau;Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+432,Hopea,,Merawan,KH;ID;MY;MM;PG;PH;TH;VN
+433,Humiria,balsamifera,Umiri;Oloroso;Chanul;Bois Rouge;Houmiri;Bastard Bulletwood;Meri;Tauaranru;Tauroniro;Quinilla Colorado;Basra Bolletrie;Blakaberi;Tawanonero;Nina;Umiri,BR;CO;EC;GF;GY;PE;SR;VE
+434,Humiria,floribunda,Umiri;Oloroso;Chanul;Bois Rouge;Houmiri;Bastard Bulletwood;Meri;Tauaranru;Tauroniro;Quinilla Colorado;Basra Bolletrie;Blakaberi;Tawanonero;Nina;Umiri,BR;CO;EC;GF;GY;PE;SR;VE
+435,Hura,crepitans,Ochoco;Assacu;Ceiba Lechosa;Habillo;Sandbox;Bois du Diable;Sablier;Catahua;Possentrie;Possum;Ura Wood;Ceiba Habillo;Jabillo;Possumwood;Assacù,BO;BR;CO;EC;GY;GF;PE;SR;VE;US
+436,Hymenaea,courbaril,Jatobá;Gomme Animée;Pois Confiture;Algarrobo;Algarrobo de la Antillas;Algarrobo das Antilhas;Azucar;Cuapinol;Curbaril;Guapinol;Huayo;Jataí;Jutaby;Rode Lokus;Brazilian Cherry;Brazilian Copal;Cayenne Copal;Copal;Demarara Copal;Kerosene Tree;Stinking Toe;Latin American Locust;West Indian Locust;Jatoba,BR;GF;BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;BM;BZ;CU;HT;DO;PR;JM;TT;GP;MQ;BS;BB;LC;CW;AW;VC;VI;GD;AG;DM;KY;KN;SX;TC;MF;VG;BQ;AI;BL;MS;SR;GB
+437,Hymenolobium,,Angelim,BR;GF;SR
+438,Inga,,Inga,AR;BR;GF;GY;HN;PE;SR
+439,Intsia,bakeri,Vesi;Merbau;Hintsy;Merbau;Komu;Kwila;Ipil;Ipil Laut;Lum-Paw;Gonuo;Kwila;Kalabau;Moluccan Ironwood;Merbau,FJ;ID;MG;MY;NC;PG;PH;TH;VN;AU;CN;GB
+440,Intsia,bijuga,Vesi;Merbau;Hintsy;Merbau;Komu;Kwila;Ipil;Ipil Laut;Lum-Paw;Gonuo;Kwila;Kalabau;Moluccan Ironwood;Merbau,FJ;ID;MG;MY;NC;PG;PH;TH;VN;AU;CN;GB
+441,Intsia,palembanica,Vesi;Merbau;Hintsy;Merbau;Komu;Kwila;Ipil;Ipil Laut;Lum-Paw;Gonuo;Kwila;Kalabau;Moluccan Ironwood;Merbau,FJ;ID;MG;MY;NC;PG;PH;TH;VN;AU;CN;GB
+442,Intsia,retusa,Vesi;Merbau;Hintsy;Merbau;Komu;Kwila;Ipil;Ipil Laut;Lum-Paw;Gonuo;Kwila;Kalabau;Moluccan Ironwood;Merbau,FJ;ID;MG;MY;NC;PG;PH;TH;VN;AU;CN;GB
+443,Irvingia,malayana,Pau Kijang;Kabok;Wild Almond;Kabok,MY;TH;GB
+444,Jacaranda,copaia,Carnauba da Matta;Para-Para;Chingale;Copaia;Faux Simarouba;Gualandai;Goebaja;Abey;Cupay;Parapara,BR;CO;GF;PA;SR;VE
+445,Julbernardia,pellegriniana,Ekop-Beli;Awoura;Beli;Zebrali;Zebrali;Awoura,CM;GA;FR;DE
+446,Julbernardia,seretii,Alumbi,
+447,Khaya,anthotheca,N’Dola;Mangona;N’Dola;Acajou Blanc;Acajou Krala;Ahafo;Munyama;Acajou Blanc;Khaya Mahagoni;Acajou d’Afrique,AO;CM;CG;CI;GH;UG;FR;DE
+448,Khaya,grandifoliola,Acajou à Grandes Feuilles;Akuk;Benin Mahogany;Eri Kire;Acajou à Grandes Feuilles;Heavy African Mahogany;Acajou d’Afrique,CI;NG;UG;FR;GB
+449,Khaya,ivorensis,Undia Nunu;N’Gollon;Acajou Bassam;Caoba del Galón;Zaminguila;Takoradi Mahogany;Ogwango;Acajou Bassam;Khaya Mahagoni;African Mahogany;Acajou d’Afrique,AO;CM;CI;GQ;GA;GH;NG;FR;DE;GB
+450,Khaya,klainei,Undia Nunu;N’Gollon;Acajou Bassam;Caoba del Galón;Zaminguila;Takoradi Mahogany;Ogwango;Acajou Bassam;Khaya Mahagoni;African Mahogany;Acajou d’Afrique,AO;CM;CI;GQ;GA;GH;NG;FR;DE;GB
+451,Khaya,,Acajou d’Afrique,AO;CM;CI;GQ;GA;GH;NG;FR;DE;GB
+452,Klainedoxa,buesgenii,Ngon;Oboro;Kuma-kuma;Kroma;Ikele;Kuma-kuma;Eves;Eveuss;Kruma;Odudu;Eveuss,CM;CF;CG;CI;CD;GQ;GA;GH;NG
+453,Klainedoxa,gabonensis,Ngon;Oboro;Kuma-kuma;Kroma;Ikele;Kuma-kuma;Eves;Eveuss;Kruma;Odudu;Eveuss,CM;CF;CG;CI;CD;GQ;GA;GH;NG
+454,Kokoona,,Mata Ulat,
+455,Koompassia,excelsa,Honey Bee Tree;Mangaris;Mengaris;Toale;Tualang,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+456,Koompassia,malaccensis,Menggeris;Toemaling;Kempas;Mengris;Impas;Kempas;Yuan;Kempas,ID;MY;PG;TH
+457,Lannea,welwitschii,Baiséguma;Kakoro;Loloti;Kumenini;Ekika;Kumbi,CI;GH;NG
+458,Lebrunia,bushaie,Busehi,
+459,Lecythis,grandiflora,Sapucaia;Sapukaina;Sapucaia,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+460,Lecythis,pisonis,Sapucaia;Sapukaina;Sapucaia,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+461,Letestua,durissima,Congotali;Kong-Afane;Congotali,CG;GA
+462,Licania,,Grigri,BR;CO;CR;GY;MX;PE;VE
+463,Lithocarpus,,Mempening,
+464,Litsea,,Medang,AU;MY;MM;PH;VN;ID;LA;MM
+465,Lonchocarpus,lanceolatus,Black Cabbagebark;Chaprerno;Sindjaplé;Machiche,BZ;CR;SV;GT;HN;NI;PA
+466,Lophira,alata,Bongossi;Bonkolé;Azobé;Akoga;Akoga;Kaku;Ekki;Eba;Hendui;Bonkole;Bongossi;Ekki;Azobé,CM;CG;CI;GQ;GA;GH;NG;SL;DE;GB
+467,Lophira,procera,Bongossi;Bonkolé;Azobé;Akoga;Akoga;Kaku;Ekki;Eba;Hendui;Bonkole;Bongossi;Ekki;Azobé,CM;CG;CI;GQ;GA;GH;NG;SL;DE;GB
+468,Lovoa,brownii,Bibolo;Dibétou;Nivero;Embero;Eyan;Dubini-Biri;Mpengwa;Mukongoro;Mukusu;Apopo;Sida;Anamenila;Wnaimei;Lifaki-Maindu;Bombulu;Nkoba;Noyer d’Afrique;Noyer du Gabon;African Walnut;Tigerwood;Tigerwood;Uganda Walnut;Congowood;Dibétou,CM;CI;GQ;GA;GH;KE;NG;SL;CD;UG;FR;GB;US
+469,Lovoa,klaineana,Bibolo;Dibétou;Nivero;Embero;Eyan;Dubini-Biri;Mpengwa;Mukongoro;Mukusu;Apopo;Sida;Anamenila;Wnaimei;Lifaki-Maindu;Bombulu;Nkoba;Noyer d’Afrique;Noyer du Gabon;African Walnut;Tigerwood;Tigerwood;Uganda Walnut;Congowood;Dibétou,CM;CI;GQ;GA;GH;KE;NG;SL;CD;UG;FR;GB;US
+470,Lovoa,swynnertonii,Bibolo;Dibétou;Nivero;Embero;Eyan;Dubini-Biri;Mpengwa;Mukongoro;Mukusu;Apopo;Sida;Anamenila;Wnaimei;Lifaki-Maindu;Bombulu;Nkoba;Noyer d’Afrique;Noyer du Gabon;African Walnut;Tigerwood;Tigerwood;Uganda Walnut;Congowood;Dibétou,CM;CI;GQ;GA;GH;KE;NG;SL;CD;UG;FR;GB;US
+471,Lovoa,trichilioides,Bibolo;Dibétou;Nivero;Embero;Eyan;Dubini-Biri;Mpengwa;Mukongoro;Mukusu;Apopo;Sida;Anamenila;Wnaimei;Lifaki-Maindu;Bombulu;Nkoba;Noyer d’Afrique;Noyer du Gabon;African Walnut;Tigerwood;Tigerwood;Uganda Walnut;Congowood;Dibétou,CM;CI;GQ;GA;GH;KE;NG;SL;CD;UG;FR;GB;US
+472,Lovoa,,Dibétou,CM;CI;GQ;GA;GH;KE;NG;SL;CD;UG;FR;GB;US
+473,Loxopterygium,sagotii,Hububalli;Slangehout,SR
+474,Lysiloma,latisiliquum,False Tamarind;Tsalam;Tzalam;Sabicu,BZ;CR;SV;GT;HN;NI;PA
+475,Machaerium,scleroxylon,Caviuna;Jacarand;Pau Ferro;Morado;Palissandre de Santos;Palissandre de Santos,BR;BO;GF
+476,Maclura,tinctoria,Tatayiva-Saiyu;Amarillo;Amarello;Taiuva;Dinde;Palo Amarillo;Palo de Mora;Barossa;Moral;Bois d'Orange;Moral,AR;BO;BR;CO;CR;MX;TT
+477,Macrolobium,dewevrei,Ekobem;Molapa;Epal;Vaa;Ditshipi;Ligudu;Limbali;Abeum;Tetekon;Sehmeh;Limbali,CM;CF;CG;CI;CD;GA;GH;LR
+478,Macrolobium,fragrans,Kibakoko,
+479,Madhuca,motleyana,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+480,Madhuca,,Bitis,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+481,Magnolia,,Champak,MM;PH
+482,Malacantha,superba,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+483,Mangifera,,Machang,IN;ID;MY;MM;PK;PG;PH;SB;TH;VN;FR;GB
+484,Manilkara,bidentata,Maçaranduba;Maparajuba;Paraju;Balata;Nispero;Balata franc;Balata rouge;Balata gomme;Balata;Bulletwood;Beefwood;Nispero;Pamashto;Quinilla Colorada;Bolletrie;Balata;Massarandu;Bulletwood;Bulletwood;Beefwood;Maçaran­duba,BR;CO;GF;GY;PA;PE;SR;VE;GB;US
+485,Manilkara,huberi,Maçaranduba;Maparajuba;Paraju;Balata;Nispero;Balata franc;Balata rouge;Balata gomme;Balata;Bulletwood;Beefwood;Nispero;Pamashto;Quinilla Colorada;Bolletrie;Balata;Massarandu;Bulletwood;Bulletwood;Beefwood;Maçaran­duba,BR;CO;GF;GY;PA;PE;SR;VE;GB;US
+486,Manilkara,mabokeensis,Monghinza,
+487,Manilkara,obovata,Monghinza,
+488,Manilkara,surinamensis,Maçaranduba;Maparajuba;Paraju;Balata;Nispero;Balata franc;Balata rouge;Balata gomme;Balata;Bulletwood;Beefwood;Nispero;Pamashto;Quinilla Colorada;Bolletrie;Balata;Massarandu;Bulletwood;Bulletwood;Beefwood;Maçaran­duba,BR;CO;GF;GY;PA;PE;SR;VE;GB;US
+489,Manilkara,sylvestris,Monghinza,
+490,Manilkara,,Maçaran­duba,BR;CO;GF;GY;PA;PE;SR;VE;GB;US
+491,Mansonia,altissima,Koul;Bété;Aprono;Ofun;Mansonia;Bété,CM;CI;GH;NG
+492,Maquira,coriacea,Capinuri;Muiratinga;Muiratinga,BR
+493,Markhamia,lutea,Lusambya,
+494,Markhamia,platycalyx,Lusambya,
+495,Marmaroxylon,racemosum,Angelim Rajado;Ingarana da Terra Firma;Ingarana;Bois Serpent;Snakewood;Bostamarinde;Sneki Oedoe;Angelim rajado,BR;GF;GY;SR
+496,Meijer,,"Seraya, white (White Lauan)",ID;MY;MM;PH;VN
+497,Melia,azedarach,Bakarjan;Ghora Nim;Mahanim;Mahnim;Dak hien;Mindi Kechil;Bakain;Bakarja;Betain;Deikna;Dek;Drek;Mallan Nim;Gringging;Marambung;Mindi;Bakaina;Bakaino;Bakena;Balalunga;Balagango;Paraiso;Khian;Lian;Lian-Baiyai;Xaon;Xoan,BD;KH;CN;IN;ID;NP;PH;TH;VN
+498,Mesua,ferrea,Agacuram;Atha;Mallaynangai;Naga Sampige;Nagappu;Nangil;Nangu;Nangul;Suruli;Churuli;Nagacampakam;Nagapoovu;Nanku;Vayanavu;Iron wood tree;Penaga,IN;MY;GB
+499,Metopium,brownei,Caribbean Rosewood;Black Poisonwood;Checham,BZ;CR;SV;GT;HN;NI;PA;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+500,Mezilaurus,,Itaùba,BR;GF;SR
+501,Micandra,spruceana,Reventillo;Yetcha;Carapacho;Higuerilla Negra;Shiringa Masha;Cunuri;Higuerilla,CO;PE;VE
+502,Michelia,,Champak,MM;PH
+503,Microberlinia,bisulcata,Allen Ele;Zingana;Zebrano;Zebrano;Zebrawood;Zingana,CM;GA;DE;GB
+504,Microberlinia,brazzavillensis,Allen Ele;Zingana;Zebrano;Zebrano;Zebrawood;Zingana,CM;GA;DE;GB
+505,Microberlinia,,Zingana,CM;GA;DE;GB
+506,Milicia,excelsa,Moreira;Abang;Kambala;Iroko;Mvuli;Mvule;Abang;Abang;Mandji;Odum;Semli;Tule Mufula;Iroko;Semli;Lusanga;Molundu;Mokongo;Kambala;Iroko,AO;CM;CG;CI;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;GQ;GA;GH;LR;MZ;NG;SL;CD;BE
+507,Milicia,regia,Moreira;Abang;Kambala;Iroko;Mvuli;Mvule;Abang;Abang;Mandji;Odum;Semli;Tule Mufula;Iroko;Semli;Lusanga;Molundu;Mokongo;Kambala;Iroko,AO;CM;CG;CI;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;GQ;GA;GH;LR;MZ;NG;SL;CD;BE
+508,Milicia,,Iroko,AO;CM;CG;CI;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;GQ;GA;GH;LR;MZ;NG;SL;CD;BE
+509,Millettia,laurentii,Awoung;Wenge;Awong;Wenge;Jambire;Mpande;Panga-Panga;Panga-Panga;Panga-Panga;Wengé,CM;CG;GA;CD;MZ;TZ;DE;FR;GB
+510,Millettia,pendula,Thinwin,
+511,Millettia,stuhlmannii,Awoung;Wenge;Awong;Wenge;Jambire;Mpande;Panga-Panga;Panga-Panga;Panga-Panga;Wengé,CM;CG;GA;CD;MZ;TZ;DE;FR;GB
+512,Mimusops,congolensis,Kungulu;Elang;Elanzok;Bouanga;Mfua;Mukulungu;Akola;Uku;Mukulungu,AO;CM;CF;CG;CD;GA;NG
+513,Mimusops,djave,Adjap;Ayap;Dimpampi;Ayap;M’Foi;Muamba jaune;African Pearwood;Moabi,CM;CG;GQ;GA;CD;GB
+514,Mimusops,heckelii,Makoré;Baku;Abacu;Okola;Douka;Makoré;Douka,CI;GH;GQ;GA
+515,Mitragyna,ciliata,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+516,Mitragyna,rubrostipulata,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+517,Mitragyna,stipulosa,Mivuku;Elolom;Vuku;Bahia;Elelon;Elelom Nzam;Subaha;Abura;Mboi;Nzingu;Mvuku;Nzingu;Bahia;Abura,AO;CM;CG;CI;GQ;GA;GH;NG;SL;UG;CD;ZM;FR
+518,Monopetalanthus,coriaceus,Andjung;Andoung de heitz;Ekop;Ekop-mayo;N'Douma;Zoele;Andoung,GA
+519,Monopetalanthus,durandii,Andjung;Andoung de heitz;Ekop;Ekop-mayo;N'Douma;Zoele;Andoung,GA
+520,Monopetalanthus,hedinii,Andjung;Andoung de heitz;Ekop;Ekop-mayo;N'Douma;Zoele;Andoung,GA
+521,Monopetalanthus,heitzii,Andjung;Andoung de heitz;Ekop;Ekop-mayo;N'Douma;Zoele;Andoung,GA
+522,Monopetalanthus,letestui,Andjung;Andoung de heitz;Ekop;Ekop-mayo;N'Douma;Zoele;Andoung,GA
+523,Monopetalanthus,,Andoung,GA
+524,Mora,,Mora,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+525,Moronobea,coccinea,Anani Da Terra Firme;Bacuri de Anta;Manil Montagne;Manil Peou;Parcouri-Manil;Coronobo;Morombo-Rai;Moronobo;Manniballi;Matakkie;Manil Montagne,BR;GF;GY;SR
+526,Morus,lactea,Chocobondo;Mûrier du Sénégal;East African mulberry;African mulberry;Uganda mulberry;Difou,PT;FR;GB
+527,Morus,mesozygia,Chocobondo;Mûrier du Sénégal;East African mulberry;African mulberry;Uganda mulberry;Difou,PT;FR;GB
+528,Myristica,castaneifolia,Fiji Nutmeg;Kaudamu,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+529,Myrocarpus,frondosus,Cabreùva Parda;Ibirà;Incienso;Oleo de Caboreiba;Oleo de Macaco;Oleo Pardo;Pagé;Payò;Cabreùva,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+530,Myroxylon,balsamum,Arbol del Bálsamo;Bálsamo;Bálsamo de Perú o de Tolu;Myroxylon;Baumier du Pérou;Balsamo,MX;PE;FR
+531,Nauclea,diderrichii,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+532,Nauclea,gilletii,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+533,Nauclea,trillesii,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+534,Nauclea,xanthoxylon,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+535,Nectandra,,Canelo,BR;BZ;CR;SV;GT;HN;NI;PA;CO;EC;GF;GY;PE;SR;TT;VE
+536,Neolamarckia,cadamba,Jabon;Kelempajan;Kalempayn;Kelampo;Kelepayan;Ludai;Kelempayan;Mau;Yemau;Maukadon;Mau-Lettan-She;Kaatoan Bangkal;Kadam,ID;MY;MM;PH
+537,Neolamarckia,macrophylla,Jabon;Kelempajan;Kalempayn;Kelampo;Kelepayan;Ludai;Kelempayan;Mau;Yemau;Maukadon;Mau-Lettan-She;Kaatoan Bangkal;Kadam,ID;MY;MM;PH
+538,Neolamarckia,,Kadam,ID;MY;MM;PH
+539,Nesogordonia,kabingaensis,Kissinhungo;Ovoe;Ovoui;Naouya;Kotibé;Aborbora;Danta;Otutu;Kondofindo;Danta;Kotibé,AO;CM;CF;CI;GA;GH;NG;CD;GB
+540,Nesogordonia,papaverifera,Kissinhungo;Ovoe;Ovoui;Naouya;Kotibé;Aborbora;Danta;Otutu;Kondofindo;Danta;Kotibé,AO;CM;CF;CI;GA;GH;NG;CD;GB
+541,Nesogordonia,,Kotibé,AO;CM;CF;CI;GA;GH;NG;CD;GB
+542,Newtonia,buchananii,Mafumati,
+543,Newtonia,leucocarpa,Ossimiale,
+544,Ochroma,lagopus,Tami;Pau de Balsa;Lanu;Balsa;Balsa;Algodon;Lanilla;Guano;Balsa;Gatillo;Balsa;Topa;Palo de Balsa;Bois flot;Balso;Balsa,BO;BR;CO;BZ;CR;SV;GT;HN;NI;PA;EC;SV;GT;HN;NI;PE;TT;VE
+545,Ochroma,pyramidale,Tami;Pau de Balsa;Lanu;Balsa;Balsa;Algodon;Lanilla;Guano;Balsa;Gatillo;Balsa;Topa;Palo de Balsa;Bois flot;Balso;Balsa,BO;BR;CO;BZ;CR;SV;GT;HN;NI;PA;EC;SV;GT;HN;NI;PE;TT;VE
+546,Ocotea,porosa,Canela;Imbuia;Embuia;Laurel;Brazilian Walnut;Imbuya;Brazilian Walnut;Imbuia,BR;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;GB;US
+547,Ocotea,puberula,Canela Guaica;Guaicá;Canela-de-Corvo;Guaica;Canela-Parda;Canela-Pimenta;Canela Pinho;Canela-Sebo;Moraja Kaspi;Laurel Guaika;Guaika;Keretiballi;Keriti Silverballi,AR;BR;PE;PY;SR
+548,Ocotea,rubra,Gamela;Louro Gamela;Louro Vermelho;Grignon Franc;Baaka;Determa;Red Louro;Wanu;Teteroma;Determa;Louro vermelho,BR;GF;GY;SR;GB
+549,Ocotea,usambarensis,Kikenzi,
+550,Ocotea,,Canelo,BR;BZ;CR;SV;GT;HN;NI;PA;CO;EC;GF;GY;PE;SR;TT;VE
+551,Octomeles,sumatrana,Benuang;Binuang Bini;Winuang;Erima;Irima;Ilimo;Binuang;Benuang,ID;PG;PH
+552,Oldfieldia,africana,Vésàmbata,
+553,Olea,hochstetteri,East African olive;Musharagi,GB
+554,Olea,welwitschii,Elgon olive;Loliondo,GB
+555,Ongokea,gore,Andjek;Angueuk;Kouero;Andjek;Angueuk;Boleko;Angueuk,CM;CI;GA;CD
+556,Oreomunnea,pterocarpa,Gavilán Blanco,
+557,Ormosia,coutinhoi,Buiucu;Tento;Chocho;Choco;Agui;Caconnier Rouge;Neko-Oudou;Barakaro;Huaryoro;Palo de Matos;Kokriki;Peonia;Tento,BR;CO;GF;GY;PE;PR;SR;VE
+558,Ormosia,,Tento,BR;CO;GF;GY;PE;PR;SR;VE
+559,Oxystigma,oxyphyllum,Tola Chinfuta;Nom Sinedon;Kitola;Tchitola;Akwakwa;Tshibudimbu;Emola;M'Babou;Lolagbola;Tchitola,AO;CM;CG;CD;GA;NG
+560,Pachyelasma,tessmannii,Eyek,
+561,Pachylobus,buettneri,Assia;Ozigo;Assia;Assia;Ozigo,GQ;GA;DE
+562,Pachylobus,pubescens,Safukala,
+563,Pahylobus,deliciosa,Mouguengueri;Safukala;Assia;Igaganga;Ossabel;Adjouaba,CD;CG;GA
+564,Palaquium,acuminatum,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+565,Palaquium,gutta,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+566,Palaquium,hexandrum,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+567,Palaquium,maingayi,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+568,Palaquium,rostratum,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+569,Palaquium,xanthochymum,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+570,Palaquium,,Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+571,Paraberlinia,bifoliolata,Ekop-Beli;Awoura;Beli;Zebrali;Zebrali;Awoura,CM;GA;FR;DE
+572,Parahancornia,fasciculata,Dukali,
+573,Paraserianthes,falcataria,Falcata;Moluccan sau;Jeungjing;Sengon laut;Sikat;Batai;Kayu machis;Puah;Indonesian albizia;Batai,PH;ID;MY;GB
+574,Parashorea,densiflora,Tavoy Wood;White Meranti;Mai Hao;Gerutu;Gerutu Pasir;Heavy White Seraya;Meranti Gerutu;Meruyun;Urat Mata Batu;Urat Mata Bukit;Urat Mata Daun Kechil;Khai Khieo;Gerutu,IN;ID;LA;MY;TH
+575,Parashorea,lucida,Tavoy Wood;White Meranti;Mai Hao;Gerutu;Gerutu Pasir;Heavy White Seraya;Meranti Gerutu;Meruyun;Urat Mata Batu;Urat Mata Bukit;Urat Mata Daun Kechil;Khai Khieo;Gerutu,IN;ID;LA;MY;TH
+576,Parashorea,macrophylla,"Pendan;Urat Mata;Belutu;White Seraya;Urat Mata;Thingadu;Bagtikan;White Lauan;Cho-Chi;White Lauan;Seraya, white",ID;MY;MM;PH;VN
+577,Parashorea,malaanonan,"Lumber;Meranti Jerit;Meranti Temak;White Lauan;Pendan;Thingadu;Kebon Tang;Bagtikan;Seraya, white;Urat Mata;Meranti Lapis;Meranti Putih;Pa Nong;Melapi;Chai;Kabak Kau;Meranti, White;White Meranti;Sual;Belutu;Meranti Pa’ang;Xen;White Seraya;Koki Phnom;Makai;Cho-Chi;Damar Puthi",ID;MY;VN;MM;PH;TH;KH
+578,Parashorea,parvifolia,Tavoy Wood;White Meranti;Mai Hao;Gerutu;Gerutu Pasir;Heavy White Seraya;Meranti Gerutu;Meruyun;Urat Mata Batu;Urat Mata Bukit;Urat Mata Daun Kechil;Khai Khieo;Gerutu,IN;ID;LA;MY;TH
+579,Parashorea,plicata,"Pendan;Urat Mata;Belutu;White Seraya;Urat Mata;Thingadu;Bagtikan;White Lauan;Cho-Chi;White Lauan;Seraya, white",ID;MY;MM;PH;VN
+580,Parashorea,smythiesii,Tavoy Wood;White Meranti;Mai Hao;Gerutu;Gerutu Pasir;Heavy White Seraya;Meranti Gerutu;Meruyun;Urat Mata Batu;Urat Mata Bukit;Urat Mata Daun Kechil;Khai Khieo;Gerutu,IN;ID;LA;MY;TH
+581,Parashorea,tomentella,"Pendan;Urat Mata;Belutu;White Seraya;Urat Mata;Thingadu;Bagtikan;White Lauan;Cho-Chi;White Lauan;Seraya, white",ID;MY;MM;PH;VN
+582,Parinari,campestris,Parinari;Fongouti Koko;Gaulette Blanc;Gris-Gris Blanc;Broad-Leaved Burada;Burada;Candlewood;Kupisini;Mahaicaballi;Makarai;Wamuk;Wamuku;Behoerada;Foengoe;Koebesini;Guaray;Merecurillo;Burada,BR;GF;GY;SR;VE
+583,Parinari,excelsa,Kpar;Esagko;Inyi;Mampata;Mubura;Mubura;Sougué,LR;NG;SN;TZ;UG
+584,Parinari,tenuifolia,Kpar;Esagko;Inyi;Mampata;Mubura;Mubura;Sougué,LR;NG;SN;TZ;UG
+585,Parkia,multijuga,Fava Araba Tucupi;Fava Bolota;Faveira;Parica;Visgueiro;Huarango;Rayo;Tangama;Dodomissinga;Kouatakaman;Black Manariballi;Ipanai;Uya;Goma Pashaco;Kwatakama;Cascaron;Faveira,BR;CO;EC;GF;GY;PE;SR;VE
+586,Parkia,velutina,Pashaco,
+587,Pausinystalia,macroceras,Tsanya,
+588,Payena,maingayi,Pali;Nyatoh;Nyatoh;Mayang;Taban;Riam;Pencil Cedar;Nato;Kha-Nunnok;Chay;Balam;Padang;Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+589,Payena,,Nyatoh,IN;ID;MY;PG;PH;TH;VN;NL;GB
+590,Peltogyne,maranhensis,Jatobazinho;Guarabu;Roxinho;Tananeo;Koroborelli;Merawayana;Saka;Palo de Rosa;Pau Morado;Dastan;Kocolorelli;Malako;Bois Pourpre;Bois Violet;Purperhart;Amarant;Purpleheart;Violetwood;Amarant;Purpleheart;Violetwood;Pau Roxo,BR;CO;GY;MX;SR;FR;NL;GB;US
+591,Peltophorum,dubium;Peltophorum,Canafístula;Guarucaia;Yvyrapyta;Ibirà Pytâ,AR;BR;PY
+592,Pentace,,Melunak,MY;MM;TH
+593,Pentaclethra,macrophylla,Mubala,
+594,Pentacme,siamensis,Ingyin,
+595,Pentadesma,butyracea,Kiasose,
+596,Pentadesma,lebrunii,Kiasose,
+597,Pericopsis,elata,Obang;Obang;Assamela;Kokrodua;Ole;Bohala;Mohole;Assamela;Oleo Pardo;Afrormosia,CM;CF;CI;GH;CD;FR
+598,Petersia,africana,Esia;Essia,GB
+599,Petersianthus,macrocarpus,Esia;Essia,GB
+600,Phaseolodes,pendulum,Thinwin,
+601,Phoebe,porosa,Canela;Imbuia;Embuia;Laurel;Brazilian Walnut;Imbuya;Brazilian Walnut;Imbuia,BR;AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;GB;US
+602,Picralima,klaineana,Obéro,
+603,Picralima,nitida,Obéro,
+604,Piptadenia,africana,Atui;N’Singa;Dabema;Tom;Toum;Dahoma;Mbeli;Agboin;Ekhimi;Mpewere;Mbele;Guli;Bokungu;Likundu;Dahoma;Ekhimi;Dabéma,CM;CG;CI;GQ;GA;GH;LR;NG;UG;SL;CD;GB
+605,Piptadenia,buchananii,Mafumati,
+606,Piptadenia,leucocarpa,Ossimiale,
+607,Piptadeniastrum,africanum,Atui;N’Singa;Dabema;Tom;Toum;Dahoma;Mbeli;Agboin;Ekhimi;Mpewere;Mbele;Guli;Bokungu;Likundu;Dahoma;Ekhimi;Dabéma,CM;CG;CI;GQ;GA;GH;LR;NG;UG;SL;CD;GB
+608,Plagiostyles,africana,Essoula,
+609,Planchonella,pachycarpa,Abiu Casca;Abiurana;Abiurana Amarela;Abiurana Goiaba;Goiabao;Goyabao;Goiabao,BR
+610,Platonia,insignis,Bacuri;Bacuri-Açu;Bacuriuba;Matazama;Parcouri;Pakuri;Goelhart;Pakoeli;Parcouri,BR;EC;GF;GY;SR
+611,Platycyamus,regnellii,Granadillo;Jacaranda do Brejo;Macacauba;Guayacan trebol;Trebol;Coyote;Cristobal;Granadillo;Granadillo;Granadillo;Cumaseba;Roble;Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+612,Platymiscium,duckei,Granadillo;Jacaranda do Brejo;Macacauba;Guayacan trebol;Trebol;Coyote;Cristobal;Granadillo;Granadillo;Granadillo;Cumaseba;Roble;Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+613,Platymiscium,pinnatum,Granadillo;Jacaranda do Brejo;Macacauba;Guayacan trebol;Trebol;Coyote;Cristobal;Granadillo;Granadillo;Granadillo;Cumaseba;Roble;Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+614,Platymiscium,pleiostachyum,Jacaranda do brejo;Cristobal granadillo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+615,Platymiscium,trinitatis,Granadillo;Jacaranda do Brejo;Macacauba;Guayacan trebol;Trebol;Coyote;Cristobal;Granadillo;Granadillo;Granadillo;Cumaseba;Roble;Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+616,Platymiscium,ulei,Granadillo;Jacaranda do Brejo;Macacauba;Guayacan trebol;Trebol;Coyote;Cristobal;Granadillo;Granadillo;Granadillo;Cumaseba;Roble;Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+617,Platymiscium,,Trebol,BZ;BR;CO;CR;SV;HN;MX;PE;VE
+618,Poga,oleosa,Ngale;Afo;Ovoga;Inoi;Ovoga,CM;GA;NG
+619,Pometia,,Kasai,PG;MM;PH;VN;FR;ES;GB
+620,Pouteria,pachycarpa,Abiu Casca;Abiurana;Abiurana Amarela;Abiurana Goiaba;Goiabao;Goyabao;Goiabao,BR
+621,Pouteria,speciosa,Pajura;Pajura de Obidos;Chuya;Durban Pine;Por;Suya;Suya,BR;GY
+622,Pouteria,superba,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+623,Pouteria,,Platano,
+624,Prioria,copaifera,Cativo;Trementino;Amasamujer;Copachu;Cativo;Camibar;Cativo;Muramo;Curucai;Cativo,CO;CR;PA;VE
+625,Protium,,Kurokaï,BO;BR;CO;EC;GF;GY;PE;SR;VE
+626,Prunus,africana,Red Stinkwood;Bitter almond;Mueri,GB
+627,Pseudobombax,ellipticum,Amapola,
+628,Pseudosindora,palustris,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+629,Ptaeroxylon,obliquum,Paco,
+630,Pteleopsis,hylodendron,Sikon;Koframire;Osanga;Osanga,CM;CI;CD
+631,Pterocarpus,africanus,Goni;Guenin;Pau Sangue;Ven;Pau Sangue;Goni;Ven;Vene;Vene;Ven;Vene;Vene,BF;GQ;GN;GW;ML;NG;SN
+632,Pterocarpus,angolensis,Muninga,
+633,Pterocarpus,erinaceus,Goni;Guenin;Pau Sangue;Ven;Pau Sangue;Goni;Ven;Vene;Vene;Ven;Vene;Vene,BF;GQ;GN;GW;ML;NG;SN
+634,Pterocarpus,indicus,Andaman-Padauk;Sena;Sonokembang;Linggua;Angsana;Amboina;Sena;Pashu-Padauk;Png-Rosewood;Manila-Padouk;Narra;Vitali;Amboine;Amboyna;Padouk;Amboine;Amboyna;Padouk;Amboyna;Padouk;Karin;Padauk Amboyna,IN;ID;MY;MM;PG;PH;FR;DE;GB;JP
+635,Pterocarpus,officinalis,Lagunero;Pallo de Poyo;Sangre;Sangre de Drago;Sangrillo;Mangle-médaille;Mangle-rivière Palétuvier;Sang-dragon;Blood-wood;Dragon's-blood;Drago,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;FR;GB
+636,Pterocarpus,osun,Tacula;Mbel;Kisese;Palo rojo;Mbel;Osun;Padouk;Mongola;Mukula;N’Gula;Padauk;Corail;Paduk;Padoek;African Padauk;Barwood;Camwood;Padauk;Padouk d’Afrique,AO;CM;CG;GQ;GA;NG;CF;CD;DE;BE;IT;NL;GB
+637,Pterocarpus,soyauxii,Tacula;Mbel;Kisese;Palo rojo;Mbel;Osun;Padouk;Mongola;Mukula;N’Gula;Padauk;Corail;Paduk;Padoek;African Padauk;Barwood;Camwood;Padauk;Padouk d’Afrique,AO;CM;CG;GQ;GA;NG;CF;CD;DE;BE;IT;NL;GB
+638,Pterocarpus,tinctorius,Tacula;Mbel;Kisese;Palo rojo;Mbel;Osun;Padouk;Mongola;Mukula;N’Gula;Padauk;Corail;Paduk;Padoek;African Padauk;Barwood;Camwood;Padauk;Padouk d’Afrique,AO;CM;CG;GQ;GA;NG;CF;CD;DE;BE;IT;NL;GB
+639,Pterocarpus,vidalianus,Andaman-Padauk;Sena;Sonokembang;Linggua;Angsana;Amboina;Sena;Pashu-Padauk;Png-Rosewood;Manila-Padouk;Narra;Vitali;Amboine;Amboyna;Padouk;Amboine;Amboyna;Padouk;Amboyna;Padouk;Karin;Padauk Amboyna,IN;ID;MY;MM;PG;PH;FR;DE;GB;JP
+640,Pterocymbium,beccarii,Kelumbuk;Papita;Melembu;Teluto;Keluak;Sawbya;Taluto;Oi-chang;Po-ikeng;Po-kradang;Amberoi,ID;MY;MM;PH;TH
+641,Pterygopodium,oxyphyllum,Tola Chinfuta;Nom Sinedon;Kitola;Tchitola;Akwakwa;Tshibudimbu;Emola;M'Babou;Lolagbola;Tchitola,AO;CM;CG;CD;GA;NG
+642,Pterygota,bequaertii,Kakende;Koto;Ake;Kyere;Awari;Kefe;Poroposo;Ikame;Anatolia;African Pterygota;Pterygota;Koto,CF;CI;GA;GH;NG;CD;DE;GB
+643,Pterygota,macrocarpa,Kakende;Koto;Ake;Kyere;Awari;Kefe;Poroposo;Ikame;Anatolia;African Pterygota;Pterygota;Koto,CF;CI;GA;GH;NG;CD;DE;GB
+644,Pterygota,,Koto,CF;CI;GA;GH;NG;CD;DE;GB
+645,Pycnanthus,angolensis,Ilomba;Eteng;Ilomba;Walélé;Calabo;Eteng;Otié;Akomu;Kpoyéi;Lolako;Lejonclo;Ilomba,AO;CM;CG;CI;GQ;GA;GH;NG;SL;CD
+646,Pycnanthus,kombo,Ilomba;Eteng;Ilomba;Walélé;Calabo;Eteng;Otié;Akomu;Kpoyéi;Lolako;Lejonclo;Ilomba,AO;CM;CG;CI;GQ;GA;GH;NG;SL;CD
+647,Pygeum,africanum,Red Stinkwood;Bitter almond;Mueri,GB
+648,Qualea,,Mandio­queira,BR;GF;SR;VE
+649,Rapanea,rhododendroides,Mugaita,
+650,Rhamnus,zeyheri,Pink Ivory;Pau rosapau,GB
+651,Rhodognaphalon,brevicuspe,Kpatin Dehun;Ovong;N’Demo;Kondroti;Alone;Ogumalanga;Bombax;Meguza;Mungusa;Awori;Mfume;East African Bombax;Kondroti,BJ;CM;CG;CI;GA;GH;MZ;NG;TZ;GB
+652,Rhodognaphalon,schumannianum,Kpatin Dehun;Ovong;N’Demo;Kondroti;Alone;Ogumalanga;Bombax;Meguza;Mungusa;Awori;Mfume;East African Bombax;Kondroti,BJ;CM;CG;CI;GA;GH;MZ;NG;TZ;GB
+653,Ricinodendron,africanum,Muawa;Erimado;Erimado;Erimado;Muawa;Erimado;African Nut Tree;African Wood;African Wood-Oil Nut Tree;Cork Wood;Essessang,BJ;CG;CI;GH;MZ;TG;GB
+654,Ricinodendron,heudelotii,Muawa;Erimado;Erimado;Erimado;Muawa;Erimado;African Nut Tree;African Wood;African Wood-Oil Nut Tree;Cork Wood;Essessang,BJ;CG;CI;GH;MZ;TG;GB
+655,Ricinodendron,rautanenii,Muawa;Erimado;Erimado;Erimado;Muawa;Erimado;African Nut Tree;African Wood;African Wood-Oil Nut Tree;Cork Wood;Essessang,BJ;CG;CI;GH;MZ;TG;GB
+656,Ricinodendron,,Essessang,BJ;CG;CI;GH;MZ;TG;GB
+657,Sabal,mauritiiformis,Catarata;Palma Amarga;Palma de Guagara;Palma de Vaca;Palmiche;Guágara,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+658,Sacoglottis,gabonensis,Bedwa;Bidou;Bodoua;Edoue;Eloue;Niuka;Akouapo;Tougbi;Essoua;Ozouga;Ozouga;Atala;Tala;Ugu;Kpowuli;Ozouga,CM;CG;CI;GA;GH;NG;SL
+659,Santalum,album,Indian Sandalwood;Santal Blanc;Sandalwood,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+660,Santiria,,Kedondong,IN;ID;MY;PH;TH;VN
+661,Sarcocephalus,diderrichii,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+662,Sarcocephalus,xanthoxylon,Engolo;Opepe;Akondoc;Kilu;Linzi;Mokesse;N’Gulu-Maza;Badi;Bonkingu;N’Gulu-Maza;Aloma;Kusia;Bilinga;Opepe;Bundui;Kilingi;Aloma;Opepe;Bilinga,AO;BJ;CM;CF;CG;CI;CD;GQ;GH;GA;NG;SL;UG;DE;GB
+663,Scaphium,,Kembang semangkok,MY;MM;TH
+664,Schefflera,morototoni,Ambayguazu;Mandioqueira;Yarumero;Yagrumo Macho;Yagrumo Macho;Chancaro Blanco;Yagrumo Macho;Kasavehout;Morototo;Tinajero;Morototo,AR;BR;CO;CU;DO;MX;PR;SR;VE
+665,Schinus,molle,Arveira;Pimienta;Pirul;Poivre Rosé;California Pepper Tree;Chilean Pepper Tree;Mastic Tree;Molle;Pepper Berry Tree;Pepper Tree;Peruvian Mastic;Peruvian Pepper Tree;Pink Pepper;Weeping Pepper;Peruvian Pepper,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE;FR;GB
+666,Schizolobium,amazonicum,Pashaco;Pino Chuncho;Gavilan,
+667,Scorodocarpus,borneensis,Bawang Hutan;Kulim,MY
+668,Scorodophloeus,zenkeri,Divida,
+669,Scottellia,coriacea,Ngobisolo;Kelembicho;Bilogh-Bi-Nkele;Koroko;Kruku;Korokon;Odoko;Odoko;Odoko;Odoko;Akossika,CM;CF;GA;GH;LR;NG;DE;IT;GB
+670,Scottellia,,Akossika,CM;CF;GA;GH;LR;NG;DE;IT;GB
+671,Scyphocephalium,mannii,Ossoko;Sogho;Ossoko,GA
+672,Scyphocephalium,ochocoa,Ossoko;Sogho;Ossoko,GA
+673,Scytopetalum,,Odzikouna,
+674,Senna,siamea,Bombay Blackwood;Iron Wood;Kassod Tree;Siamese Senna;Thailand Shower;Yellow Cassia;Casse de Siam;Djohar,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN;FR
+675,Shorea,acuminata,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+676,Shorea,acuminatissima,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+677,Shorea,agami,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+678,Shorea,albida,"Red Meranti;Almon;Meranti Rambai;Alan-Paya;Meranti Melanthi;Engkawang;Alan;Meranti Kepong;Meranti Sengkawang;Seraya Batu;Meranti Langgang;Saya Lueang;Meranti Bunga;Saya Khao;Chan Hoi;Seraya Bunga;Selangan Merah;Meranti, Light red;Meraka;Meranti Paya;Light Red Luan;Kawang;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Red Selangan;Meranti Tengkawang;Alan-Batu;Meranti Tembaga;Seraya Punai",MY;ID;PH;TH
+679,Shorea,argentea,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+680,Shorea,argentifolia,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+681,Shorea,assamica,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+682,Shorea,atrinervosa,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+683,Shorea,balangeran,Sal;Membatu;Makata;Balau Merah;Benuas;Kumus;Damar Laut Merah;Selangan Batu Merah;Seri;Guijo;Sengkawan Darat;Malaykal;Red Balau;Semayur;Selangan Batu No.2;Yakal;Balau;Agelam;Chan;Balau Laut Merah;Selangan Batu;Balau red;Thitya;Balau Kumus;Ak;Chankhau;Bangkirai;Selangan Batu No. 1;Sengawan;Empenit-Meraka;Balau yellow;Belangeran;Brunas;Gisok;Seraya Sirup;Pooti;Damar laut;Selangan Batu No.1;Aek;Selangan batu;Kedawang;Balau Membatu;Red Selangan Batu;Pa-Yom Dong;Balau Simantok,GB;IN;ID;MY;DE;PH;MM;TH
+684,Shorea,barbata,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+685,Shorea,blumutensis,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+686,Shorea,bracteolata,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+687,Shorea,ciliata,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+688,Shorea,collina,Belangeran;Balau Merah;Balau Laut Merah;Damar Laut Merah;Balau Membatu;Balau Merah;Red Selangan Batu;Membatu;Seri;Selangan Batu Merah;Seraya Sirup;Selangan Batu No. 1;Sengawan;Semayur;Empenit-Meraka;Guijo;Gisok;Makata;Chankhau;Red Balau;Red Balau;Balau red,ID;MY;PH;TH;DE;GB
+689,Shorea,curtisii,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+690,Shorea,dasyphylla,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+691,Shorea,dealbata,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+692,Shorea,dolichocarpa,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+693,Shorea,exelliptica,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+694,Shorea,faguetiana,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+695,Shorea,faguetioides,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+696,Shorea,farinosa,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+697,Shorea,foxworthyi,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+698,Shorea,gibbosa,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+699,Shorea,gisok,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+700,Shorea,glauca,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+701,Shorea,gratissima,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+702,Shorea,guiso,Belangeran;Balau Merah;Balau Laut Merah;Damar Laut Merah;Balau Membatu;Balau Merah;Red Selangan Batu;Membatu;Seri;Selangan Batu Merah;Seraya Sirup;Selangan Batu No. 1;Sengawan;Semayur;Empenit-Meraka;Guijo;Gisok;Makata;Chankhau;Red Balau;Red Balau;Balau red,ID;MY;PH;TH;DE;GB
+703,Shorea,gysbertsiana,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+704,Shorea,hemsleyana,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+705,Shorea,henryana,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+706,Shorea,hentonyensis,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+707,Shorea,hopeifolia,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+708,Shorea,hypochra,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+709,Shorea,inaequilateralis,Belangeran;Balau Merah;Balau Laut Merah;Damar Laut Merah;Balau Membatu;Balau Merah;Red Selangan Batu;Membatu;Seri;Selangan Batu Merah;Seraya Sirup;Selangan Batu No. 1;Sengawan;Semayur;Empenit-Meraka;Guijo;Gisok;Makata;Chankhau;Red Balau;Red Balau;Balau red,ID;MY;PH;TH;DE;GB
+710,Shorea,johorensis,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+711,Shorea,kunstleri,Belangeran;Balau Merah;Balau Laut Merah;Damar Laut Merah;Balau Membatu;Balau Merah;Red Selangan Batu;Membatu;Seri;Selangan Batu Merah;Seraya Sirup;Selangan Batu No. 1;Sengawan;Semayur;Empenit-Meraka;Guijo;Gisok;Makata;Chankhau;Red Balau;Red Balau;Balau red,ID;MY;PH;TH;DE;GB
+712,Shorea,laevifolia,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+713,Shorea,laevis,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+714,Shorea,lamellata,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+715,Shorea,lepidota,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+716,Shorea,leprosula,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+717,Shorea,leptoclados,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+718,Shorea,longisperma,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+719,Shorea,macrantha,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+720,Shorea,macrophylla,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+721,Shorea,macroptera,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+722,Shorea,materialis,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+723,Shorea,maxima,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+724,Shorea,maxwelliana,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+725,Shorea,multiflora,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+726,Shorea,obtusa,Sal;Kumus;Benuas;Sengkawan Darat;Malaykal;Rang;Yakal;Selangan Batu No.2;Balau;Agelam;Chan;Selangan Batu;Thitya;Balau Kumus;Ak;Bangkirai;Balau yellow;Brunas;Gisok;Pooti;Damar laut;Selangan Batu No.1;Aek;Selangan batu;Kedawang;Pa-Yom Dong;Balau Simantok,IN;GB;SG;ID;MY;DE;VN;BN;LA;MM;PH;TH;KH;TL
+727,Shorea,ochracea,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+728,Shorea,ochrophloia,Belangeran;Balau Merah;Balau Laut Merah;Damar Laut Merah;Balau Membatu;Balau Merah;Red Selangan Batu;Membatu;Seri;Selangan Batu Merah;Seraya Sirup;Selangan Batu No. 1;Sengawan;Semayur;Empenit-Meraka;Guijo;Gisok;Makata;Chankhau;Red Balau;Red Balau;Balau red,ID;MY;PH;TH;DE;GB
+729,Shorea,ovalis,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+730,Shorea,ovata,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+731,Shorea,pachyphylla,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+732,Shorea,palembanica,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+733,Shorea,parvifolia,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+734,Shorea,pauciflora,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+735,Shorea,peltata,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+736,Shorea,platycarpa,"Red Meranti;Engbang-Chenak;Almon;Meranti Rambai;Meranti Melanthi;Engkawang;Meranti Merah-Tua;Bataan;Binatoh;Meranti Kepong;Meranti Sengkawang;Nemesu;Seraya Batu;Meranti Daun Basar;Meranti Bukit;Meranti Langgang;Seraya Bukit;Saya Lueang;Meranti Bunga;Seraya Daun;Saya Khao;Chan Hoi;Obar Suluk;Red Lauan;Seraya Bunga;Dark Meranti;Dark Red Seraya;Tanguile;Meranti Ketung;Meranti Paya;Light Red Luan;Meranti Bunga Sengawan;Meranti, Light red;Kawang;Meranti, Dark red;Red Mertih;Meranti Merah-Muda;Damar Siput;Meranti-Hantu;Meranti Tengkawang;Meranti Tembaga;Seraya Punai",GB;ID;MY;PH;US;TH
+737,Shorea,platyclados,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+738,Shorea,polita,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+739,Shorea,polysperma,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+740,Shorea,quadrinervis,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+741,Shorea,resina-nigra,"Meranti Kuning;Kunyit;Damar Hitam;Meranti Telepok;Meranti Kelim;Yellow Meranti;Meranti Damar Hitam;Yellow Seraya;Seraya Kuning;Selangan Kuning;Selangan Kacha;Seraya Kuning;Lun Kuning;Lun Gajah;Lun Merat;Lun Siput;Kalo;Meranti, Yellow",ID;MY;TH
+742,Shorea,resinosa,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+743,Shorea,revoluta,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+744,Shorea,robusta,Rang;Sal,BN;KH;TL;ID;LA;MY;MM;PH;SG;TH;VN
+745,Shorea,roxburghii,"Lumber;Sal;Meranti Jerit;Kumus;Meranti Temak;Benuas;White Lauan;Pendan;Kebon Tang;Sengkawan Darat;Malaykal;Yakal;Selangan Batu No.2;Balau;Agelam;Chan;Selangan Batu;Meranti Lapis;Thitya;Balau Kumus;Ak;Damar Puthi;Meranti Putih;Melapi;Pa Nong;Chai;Kabak Kau;Meranti, White;Bangkirai;White Meranti;Sual;Balau yellow;Meranti Pa’ang;Xen;Brunas;Gisok;Koki Phnom;Pooti;Damar laut;Selangan Batu No.1;Makai;Aek;Selangan batu;Kedawang;Pa-Yom Dong;Balau Simantok",IN;GB;ID;MY;DE;VN;MM;PH;TH;KH
+746,Shorea,rugosa,Meranti Bakau,
+747,Shorea,sandakanensis,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+748,Shorea,scrobiculata,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+749,Shorea,seminis,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+750,Shorea,sericeiflora,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+751,Shorea,singkawang,"Red Meranti;Red Mertih;Meranti Ketung;Meranti Bunga;Meranti Merah-Tua;Nemesu;Meranti Bukit;Meranti Daun Basar;Dark Red Seraya;Obar Suluk;Seraya Bukit;Seraya Daun;Binatoh;Engbang-Chenak;Meranti Bunga Sengawan;Tanguile;Bataan;Red Lauan;Red Lauan;Dark Red Seraya;Dark Meranti;Meranti, Dark red",ID;MY;PH;GB;US
+752,Shorea,smithiana,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+753,Shorea,stalura,"Lumber;Koki Phnom;Meranti Putih;Damar Puthi;Meranti Jerit;Meranti Lapis;Meranti Pa’ang;Kebon Tang;Meranti Temak;Melapi;White Meranti;Makai;White Lauan;White Meranti;Pendan;Pa Nong;Sual;Kabak Kau;Xen;Chai;Meranti, White",KH;ID;MY;MM;PH;TH;VN
+754,Shorea,submontana,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+755,Shorea,sumatrana,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+756,Shorea,superba,Sal;Bangkirai;Agelam;Benuas;Brunas;Selangan batu;Kumus;Kedawang;Pooti;Damar laut;Kumus;Sengkawan Darat;Balau Kumus;Balau Simantok;Selangan Batu No.1;Selangan Batu No.2;Thitya;Yakal;Gisok;Malaykal;Chan;Ak;Aek;Pa-Yom Dong;Balau;Balau;Selangan Batu;Balau yellow,IN;ID;MY;MM;PH;TH;DE;GB
+757,Shorea,teysmanniana,"Red Meranti;Meranti Merah-Muda;Meranti Bunga;Damar Siput;Meranti-Hantu;Meranti Kepong;Meranti Langgang;Meranti Melanthi;Meranti Paya;Meranti Rambai;Meranti Tembaga;Meranti Tengkawang;Meranti Sengkawang;Engkawang;Seraya Batu;Seraya Punai;Seraya Bunga;Kawang;Almon;Light Red Luan;Saya Khao;Saya Lueang;Chan Hoi;Meranti, Light red",ID;MY;PH;TH
+758,Shorea,uliginosa,Meranti Bakau,
+759,Shorea,,"Meranti, Yellow;Meranti, White;Meranti, Light red;Balau red;Balau yellow;Meranti, Dark red",GB;IN;ID;MY;DE;VN;PH;MM;US;TH;KH
+760,Sideroxylon,altissimum,Mukali;Kali;M’Boul;Mukali;N’Kali;Aningueri blanc;Aniegre;Kararo;Muna;Mukangu;Landojan;Osan;Tutu;Aningré-Tanganyika Nuss;Tanganyika Nuss;Aningeria;Aningré;Aniégré,AO;CF;CG;CI;ET;KE;NG;UG;CD;DE;IT;GB
+761,Simarouba,amara,Chiriuana;Marupa;Marupauba;Parahyba;Paraiba;Tamanquiera;Simaruba;Cedro Amargo;Cuna;Guitarro;Simarouba;Simarupa;Marupa;Soemaroeba;Cedro Blanco;Simarouba;Bitterwood;Marupa,BO;BR;CO;EC;GF;GY;PE;SR;VE;GB
+762,Sindora,affinis,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+763,Sindora,coriacea,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+764,Sindora,echinocalyx,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+765,Sindora,parvifolia,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+766,Sindora,siamensis,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+767,Sindora,velutina,Krakas;Sindur;Sepetir;Meketil;Saputi;Sepeteh;Petir;Petir-Sepetir Pay;Swamp-Sepetir;Sepetir Nin-Yaki;Supa;Krathon;Maka-Tea;Sepetir,KH;ID;MY;PH;TH
+768,Sindora,,Sepetir,KH;ID;MY;PH;TH
+769,Sindoropsis,letestui,Lumbandjii;Gheombi;Ngom;Gheombi,CM;GA
+770,Siparuna,,Muniridan,
+771,Spirostachys,africana,Tamboti,
+772,Spondias,mombin,Coolie Plum;Gully Plum;Hog Plum;Jobo;Mopé;Prunier Mombin;Spanish Plum;Mopé,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+773,Staudtia,gabonensis,Menga-Menga;M'Bonda;Menga-Menga;Molanga;Bokapi;M'Boun;Niove;Kamashi;Susumenga;Niové,AO;CM;CF;GQ;GA;CD
+774,Staudtia,kamerunensis,Menga-Menga;M'Bonda;Menga-Menga;Molanga;Bokapi;M'Boun;Niove;Kamashi;Susumenga;Niové,AO;CM;CF;GQ;GA;CD
+775,Staudtia,stipitata,Menga-Menga;M'Bonda;Menga-Menga;Molanga;Bokapi;M'Boun;Niove;Kamashi;Susumenga;Niové,AO;CM;CF;GQ;GA;CD
+776,Steganthus,welwitschii,Elgon olive;Loliondo,GB
+777,Sterculia,apetala,Mani;Achicha;Chicha;Tacacazeiro;Camajura;Anacaguita;Cacao de Mote;Sapote;Saput;Zapote;Kobe;Maho;Bellota;Chiapas;Huarmi-Caspi;Zapote Silvestre;Anacaguita;Jahoballi;Kobehe;Okro-Oedoe;Mahoe;Camoruco;Mayagua;Sunsun;Chicha / Xixa,BO;BR;CO;CU;EC;GF;GY;MX;PE;PR;SR;TT;VE
+778,Sterculia,oblonga,Bongele;Eyong;Bongo;Bi;N’Chong;N’Zong;N’Chong;N’Zong;Ohaa;Okoko;White Sterculia;Yellow Sterculia;Eyong,CM;CF;CI;GQ;GA;GH;NG;GB
+779,Sterculia,rhinopetala,N’Kanang;Lotofa;Wawabima;Aye;Brown Sterculia;Lotofa,CM;CI;GH;NG;GB
+780,Sterculia,vitiensis,Waciwaci;Fijian Sterculia,AU;PG;NZ;FJ;SB;VU;NC;PF;WS;GU;KI;TO;FM;MH;MP;AS;PW;CK;WF;TV;NR;NF;TK;PN
+781,Sterculia,,Chicha / Xixa,BO;BR;CO;CU;EC;GF;GY;MX;PE;PR;SR;TT;VE
+782,Strombosia,glaucescens,Poe;Itako;Otingbo;Afina,CI;NG
+783,Strombosia,pustulata,Poe;Itako;Otingbo;Afina,CI;NG
+784,Swartzia,benthamiana,Guyana Rosewood;Wamara;Saboarana,GY
+785,Swartzia,fistuloides,Nom Nsas;Kisasambra;Boto;N’Guessa;Nsakala;Oken;Pau Ferro;Udoghogho;Pao rosa,CM;CG;CI;CF;CD;GA;MZ;NG
+786,Swartzia,jorori,Jorori,
+787,Swartzia,leiocalycina,Carrapatinho;Coraçao de Negro;Gombeira;Bois Perdrix;Ferreol;Panacoco;Agui;Banya;Wamara;Gandoe;Ijzerhart;Zwart Parelhout;Wamara;Ironwood;Wamara;Panacoco,BR;GF;GY;SR;DE;GB
+788,Swartzia,madagascariensis,Nom Nsas;Kisasambra;Boto;N’Guessa;Nsakala;Oken;Pau Ferro;Udoghogho;Pao rosa,CM;CG;CI;CF;CD;GA;MZ;NG
+789,Swietenia,candollei,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+790,Swietenia,humilis,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+791,Swietenia,krukovii,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+792,Swietenia,macrophylla,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+793,Swietenia,mahagoni,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+794,Swietenia,tessmannii,Caoba;Mara;Aguano;Mogno;Araputanga;Caoba;Caoba del Sur;Caoba del Atlantica;Caoba;Caoba;Mahogani;Chacalte;Mahogani;Zopilote;Baywood;Mahogani;Aguano;Caoba;Caoba;Orura;Acajou d’Amérique;Mogano;Mahonie;Caoba;Mahogany;Brazilian Mahogany;Mahogany;Brazilian Mahogany;Mahogany,BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;CU;DO;GT;HT;MX;NI;PE;VE;FR;IT;NL;ES;GB;US
+795,Swintonia,floribunda,Muom;Thayet-Kin;Merpau;Merpauh;Taung Thayet;Civit Taungthayet;Civit;Muom;Merpauh,KH;IN;MY;MM;PK;VN
+796,Swintonia,penangiana,Muom;Thayet-Kin;Merpau;Merpauh;Taung Thayet;Civit Taungthayet;Civit;Muom;Merpauh,KH;IN;MY;MM;PK;VN
+797,Swintonia,pierrei,Muom;Thayet-Kin;Merpau;Merpauh;Taung Thayet;Civit Taungthayet;Civit;Muom;Merpauh,KH;IN;MY;MM;PK;VN
+798,Swintonia,schwenkii,Muom;Thayet-Kin;Merpau;Merpauh;Taung Thayet;Civit Taungthayet;Civit;Muom;Merpauh,KH;IN;MY;MM;PK;VN
+799,Swintonia,spicifera,Muom;Thayet-Kin;Merpau;Merpauh;Taung Thayet;Civit Taungthayet;Civit;Muom;Merpauh,KH;IN;MY;MM;PK;VN
+800,Swintonia,,Merpauh,KH;IN;MY;MM;PK;VN
+801,Symphonia,globulifera,Azufre;Bolivia;Anani;Canadi;Mani;Azufre;Machare;Machare;Puenga;Zaputi;Manil;Manil Marecage;Manni;Azufre;Brea-Caspi;Mani;Mataki;Mangue;Mani;Paraman;Peramancillo;Boarwood;Manil,BO;BR;CO;EC;GF;GY;PE;SR;TT;VE;US
+802,Syzygiopsis,pachycarpa,Abiu Casca;Abiurana;Abiurana Amarela;Abiurana Goiaba;Goiabao;Goyabao;Goiabao,BR
+803,Tabebuia,capitata,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+804,Tabebuia,donnell-smithii,Gold Tree;Primavera,GB
+805,Tabebuia,impetiginosa,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+806,Tabebuia,ipe,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+807,Tabebuia,serratifolia,Lapacho;Ipé;Lapacho;Tajibo;Ipé;Ipé Roxo;Pau d’Arco;Amapa;Prieta;Cortez;Guayacan;Cortés;Canaguate;Polvillo;Roble Morado;Ebene verte;Hakia;Ironwood;Lapacho Negro;Tahuari Negro;Ebano Verde;Groenhart;Poui;Yellow Poui;Acapro;Araguaney;Ipé,AR;BO;BR;BZ;CR;SV;GT;HN;NI;PA;CO;GF;GY;PY;PE;SR;TT;VE
+808,Tapirira,,Cedroi,GY
+809,Taralea,oppositifolia,Cumaru Rana;Shihuahuaco;Tarala;Almendrillo,AR;BO;BV;BR;CL;CO;EC;FK;GF;GY;PY;PE;GS;SR;UY;VE
+810,Tarrietia,densiflora,Niangon;Ogoue;Nyankom;Whismore;Yami;Niangon,CI;GA;GH;LR;SL
+811,Tarrietia,perakensis,Don-Chem;Palapi;Teraling;Mengkulang;Kembang;Kanze;Lumbayau;Chumprag;Huynh;Red Tulip Oak;Brown Tulip Oak;Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+812,Tarrietia,utilis,Niangon;Ogoue;Nyankom;Whismore;Yami;Niangon,CI;GA;GH;LR;SL
+813,Tarrietia,,Mengkulang,KH;ID;MY;MM;PH;TH;VN;AU
+814,Tectona,grandis,Sagwan;Jati;Tek;May Sak;Kyun;May Sak;Giati;Teck;Teck;Burma-Rangoon-Java Teak;Teak,IN;ID;LA;MM;TH;VN;FR;DE
+815,Terminalia,amazonia,Pau-Mulato Brancho;Guayabo Leon;Almendro;Canshan;Amarillo Carabazuelo;Pardillo Negro;Nargusta,BR;CO;HN;MX;PA;VE
+816,Terminalia,catappa,"Terminalia, brown",
+817,Terminalia,complanata,"Terminalia, yellow",
+818,Terminalia,guyanensis,Pau-Mulato Brancho;Guayabo Leon;Almendro;Canshan;Amarillo Carabazuelo;Pardillo Negro;Nargusta,BR;CO;HN;MX;PA;VE
+819,Terminalia,ivorensis,Lidia;Framiré;Emeri;Baji;Idigbo;Black Afara;Baji;Idigbo;Framiré,CM;CI;GH;LR;NG;SL;GB
+820,Terminalia,longispicata,"Terminalia, yellow",
+821,Terminalia,sogerensis,"Terminalia, yellow",
+822,Terminalia,superba,Akom;N’Ganga;Limba;Fraké;Akom;Ofram;Afara;White Afara;Kojagei;Limba;Limbo;Fraké;Noyer du Mayombé;Korina;Limba,CM;CF;CG;CI;GQ;GH;NG;SL;CD;FR;US
+823,Terminalia,tomentosa,"Chhlik Snaeng;Arjun;Jaha;Jelawai;Talisai;Telinsi;Kumbuk;Suak Dam;Taukyan;Thinsein;Indian Laurel;Hok Fa;Chieu-Lieu;Laurel, Indian",KH;ID;LA;MM;PH;TH;VN
+824,Tessmannia,africana,Wamba,
+825,Tessmannia,claessensii,Wamba,
+826,Tessmannia,lescrauwaetii,Wamba,
+827,Testulea,gabonensis,Rone;N'Gwaki;Ake;Akewe;Izombe;N'Komi;Izombé,CM;CG;GA
+828,Tetraberlinia,bifoliolata,Ekop-Ribi;Eko-Andoung;Ekop;Ekop-Andoung;Hoh;Sikon;Ekop;Ekop;Ekaban;Tetraberlinia;Ekaba,CM;CG;GQ;GA;LR;DE;NL;ES;GB
+829,Tetraberlinia,tubmaniana,Ekop-Ribi;Eko-Andoung;Ekop;Ekop-Andoung;Hoh;Sikon;Ekop;Ekop;Ekaban;Tetraberlinia;Ekaba,CM;CG;GQ;GA;LR;DE;NL;ES;GB
+830,Tetraberlinia,,Ekaba,CM;CG;GQ;GA;LR;DE;NL;ES;GB
+831,Tetragastris,,Sali,BR;CO;GF;GY;NI;PR
+832,Tetramerista,glabra,Punal;Bang Kalis;Paya;Punam;Ponga;Peda;Entuyut;Amat;Tuyut;Punah,ID;MY
+833,Tieghemella,africana,Makoré;Baku;Abacu;Okola;Douka;Makoré;Douka,CI;GH;GQ;GA
+834,Tieghemella,heckelii,Makoré;Baku;Abacu;Okola;Douka;Makoré;Douka,CI;GH;GQ;GA
+835,Tieghemella,,Douka (Makoré),CI;GH;GQ;GA
+836,Tipuana,tipu,Tipa,
+837,Toona,australis,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+838,Toona,calantas,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+839,Toona,ciliata,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+840,Toona,febrifuga,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+841,Toona,sureni,Chomcha;Toon;Surian;Limpagna;Surea-Bawang;Thitkado;Red Cedar;Calantas;Toon;Yomham;Xoan-Moc;Red Cedar;Moulmein Cedar;Burma Cedar;Moulmein Cedar;Burma Cedar;Suren,KH;IN;ID;MY;MM;PG;PH;TH;VN;AU;GB;US
+842,Trachylobium,verrucosum,East African copal;Mtandarusi,GB
+843,Trattinickia,,Breu-sucuruba,BR
+844,Trichilia,catigua,Catiguà,
+845,Triplaris,cumingiana,Fernansanchez;Formigueiro,EC
+846,Triplaris,guayaquilensis,Fernansanchez;Formigueiro,EC
+847,Triplochiton,scleroxylon,Ayous;M’Bado;Samba;Ayus;Wawa;Arere;Obeche;Samba;Abachi;Wawa;Obeche;Samba;Obéché;Ayous,CM;CF;CI;GQ;GH;NG;FR;DE;GB;US
+848,Turraeanthus,africana,Avodiré;Apapaye;Blimah-Pu;Apaya;M’Fube;Lusamba;Lusamba;Avodiré,CI;GH;LR;NG;CD;BE
+849,Uapaca,guineensis,Borikio;Rikio;Rikio Riviere;Borikio;Rikio;Rikio Riviere;Abo Emido;Yeye;Rikio,CM;CI;NG
+850,Uapaca,,Rikio,CM;CI;NG
+851,Vatairea,guianensis,Amargoso;Gele Kabbes;Inkassa;Yonko;Arisauro,BR
+852,Vatairea,paraensis,Angelim Amargoso;Aracuy;Fava Amarela;Fava Amargosa;Faveria Amarela;Faveira Amargosa;Faveria Bolacha;Guerra;Maqui;Arisauro;Bastard Purpleheart;Bauwau;Inkassa;Yongo;Amargo;Amargo;Mari-Mari;Marupa del Bajo;Arisoeroe;Gele Kabbes;Geli-Kabissi;Faveira Amargosa,BR;CO;GY;GF;HN;PA;PE;SR
+853,Vatica,,Resak,
+854,Virola,,Virola,BZ;CR;SV;GT;HN;NI;PA;CO;EC;GF;GY;HN;PE;SR;TT;VE;GB
+855,Vitellaria,paradoxa,Shea Butter Tree;Shea Tree;Shi Tree;Karité,DZ;ES;ES;EG;LY;PT;ES;MA;SD;TN;EH;BI;KM;DJ;ER;ET;KE;MG;MW;MU;YT;MZ;RE;RW;SC;SO;SS;TZ;UG;ZM;ZW;AO;CM;CF;TD;CG;CD;GQ;GA;ST;BW;LS;NA;ZA;SZ;BJ;BF;CV;GM;GH;GN;GW;CI;LR;ML;MR;NE;NG;SH;SN;SL;TG
+856,Vitex,ciliata,Evino,
+857,Vitex,pachyphylla,Evino,
+858,Vitex,parviflora,Fuli Kaa;Kayu Kula;Amugauan;Molave;Sagat;Molave,ID;PH
+859,Vochysia,guatemalensis,Iteballi;San Juán;Quaruba,GY
+860,Vochysia,schomburgkii,Iteballi;San Juán;Quaruba,GY
+861,Vochysia,,Quaruba,GY
+862,Vouacapoua,,Wacapou,BR;GF;GY;SR;GB;US
+863,Warburgia,ugandensis,Muziga,
+864,Wulfhorstia,ekebergioides,Mutaco,
+865,Xylia,,Pyinkado,
+866,Zanthoxylum,gilletii,Olonvogo,
