@@ -7,6 +7,9 @@ import datetime
 # ------------------- #
 
 OP_DIR = './../Logs'
+if not os.path.exists(OP_DIR):
+    os.mkdir(OP_DIR)
+
 log_file = 'log_file.txt'
 logger = logging.getLogger('main')
 logger.setLevel(logging.INFO)

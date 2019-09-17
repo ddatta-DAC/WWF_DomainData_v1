@@ -1,0 +1,6 @@
+Start : 2019-09-17 16:45:23.787558
+Error in preprocessing HS codes : See HSCode_preprocessing_v3
+End : 2019-09-17 16:45:24.889932
+Start : 2019-09-17 16:49:17.757708
+Success 1
+End : 2019-09-17 16:51:16.908007
