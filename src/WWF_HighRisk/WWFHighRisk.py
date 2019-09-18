@@ -178,12 +178,12 @@ def main():
             res.append(c)
         res = ';'.join(res)
         df_3.loc[i, 'common_name'] = res
-
+    print(os.getcwd())
     op_loc = './../../GeneratedData/WWF_HighRisk'
-    if os.path.exists(op_loc):
+    if not os.path.exists(op_loc):
         os.mkdir(op_loc)
 
     op_file = 'WWF_HighRisk.csv'
     op_file_path = os.path.join(op_loc, op_file)
-    df_3.to_csv(op_file_path)
+    df_3.to_csv(op_file_path,index=False)
     return
