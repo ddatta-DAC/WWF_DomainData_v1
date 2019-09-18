@@ -2,3 +2,4 @@
 /src/preprocess_5_Aug2019/CommerciallyTradedList/.ipynb_checkpoints/
 /src/preprocess_5_Aug2019/ForestKeywords/.ipynb_checkpoints/
 **/__pycache__
+.idea/**
