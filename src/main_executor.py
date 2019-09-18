@@ -20,6 +20,7 @@ logger.info('Start : ' + str(datetime.datetime.now()))
 # ------------------- #
 # Place modules to be executed
 # ------------------- #
+
 try:
     from src.hs_code_cleanup_v1 import  HSCode_preprocessing_v3
     HSCode_preprocessing_v3.main()
@@ -34,7 +35,24 @@ try:
 except:
     logger.error('Error in preprocessing HS codes : See WWFHighRisk')
 
+try:
+    from src.CITES import process_CITES_data
+    process_CITES_data.main()
+    logger.info('Success 3 : CITES data cleaned')
+except:
+    logger.error('Error in preprocessing HS codes : See CITES.process_CITES_data')
+
+try:
+    from src.IUCN_Redlist import process_IUCN_Redlist
+    process_IUCN_Redlist.main()
+    logger.info('Success 4 : IUCN Redlist data cleaned')
+except:
+    logger.error('Error in preprocessing HS codes : See IUCN_Redlist.process_IUCN_Redlist')
+
+
+
 # ------- end ------- #
+
 logger.info('End : ' + str(datetime.datetime.now()))
 handler.close()
 logger.handlers.remove(handler)
