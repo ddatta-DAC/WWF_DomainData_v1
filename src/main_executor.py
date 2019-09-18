@@ -23,11 +23,16 @@ logger.info('Start : ' + str(datetime.datetime.now()))
 try:
     from src.hs_code_cleanup_v1 import  HSCode_preprocessing_v3
     HSCode_preprocessing_v3.main()
-    logger.info('Success 1')
+    logger.info('Success 1 : HSCode_preprocessing_v3')
 except:
     logger.error('Error in preprocessing HS codes : See HSCode_preprocessing_v3')
 
-
+try:
+    from src.WWF_HighRisk import  WWFHighRisk
+    WWFHighRisk.main()
+    logger.info('Success 2 : WWFHighRisk')
+except:
+    logger.error('Error in preprocessing HS codes : See WWFHighRisk')
 
 # ------- end ------- #
 logger.info('End : ' + str(datetime.datetime.now()))
