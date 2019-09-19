@@ -176,7 +176,7 @@ def parse_df(df):
 def main():
     df = get_raw_data()
     df = parse_df(df)
-    op_file_loc = './../GeneratedData/CommerciallyTraded'
+    op_file_loc = './../../GeneratedData/CommerciallyTraded'
 
     if not os.path.exists(op_file_loc):
         os.mkdir(op_file_loc)
