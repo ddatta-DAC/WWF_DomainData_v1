@@ -26,30 +26,35 @@ try:
     HSCode_preprocessing_v3.main()
     logger.info('Success 1 : HSCode_preprocessing_v3')
 except:
-    logger.error('Error in preprocessing HS codes : See HSCode_preprocessing_v3')
+    logger.error('Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3')
 
 try:
     from src.WWF_HighRisk import  WWFHighRisk
     WWFHighRisk.main()
     logger.info('Success 2 : WWFHighRisk')
 except:
-    logger.error('Error in preprocessing HS codes : See WWFHighRisk')
+    logger.error('Error in preprocessing : See WWFHighRisk.WWFHighRisk')
 
 try:
     from src.CITES import process_CITES_data
     process_CITES_data.main()
     logger.info('Success 3 : CITES data cleaned')
 except:
-    logger.error('Error in preprocessing HS codes : See CITES.process_CITES_data')
+    logger.error('Error in preprocessing : See CITES.process_CITES_data')
 
 try:
     from src.IUCN_Redlist import process_IUCN_Redlist
     process_IUCN_Redlist.main()
     logger.info('Success 4 : IUCN Redlist data cleaned')
 except:
-    logger.error('Error in preprocessing HS codes : See IUCN_Redlist.process_IUCN_Redlist')
+    logger.error('Error in preprocessing : See IUCN_Redlist.process_IUCN_Redlist')
 
-
+try:
+    from src.CommerciallyTraded import raw_data_parser
+    raw_data_parser.main()
+    logger.info('Success 5 : CommerciallyTraded list data cleaned')
+except:
+    logger.error('Error in preprocessing : See CommerciallyTraded list.raw_data_parser')
 
 # ------- end ------- #
 
