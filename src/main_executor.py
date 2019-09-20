@@ -54,7 +54,16 @@ try:
     raw_data_parser.main()
     logger.info('Success 5 : CommerciallyTraded list data cleaned')
 except:
-    logger.error('Error in preprocessing : See CommerciallyTraded list.raw_data_parser')
+    logger.error('Error in preprocessing : See CommerciallyTraded.raw_data_parser')
+
+try:
+    from src.ForestProductKeywords import raw_data_parser
+    raw_data_parser.main()
+    logger.info('Success 6 : ForestProductKeywords list data cleaned')
+except:
+    logger.error('Error in preprocessing : See ForestProductKeywords.raw_data_parser')
+
+
 
 # ------- end ------- #
 
