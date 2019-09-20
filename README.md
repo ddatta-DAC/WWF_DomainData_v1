@@ -1,4 +1,9 @@
-# WWF_DomainData_v1
+# WWF DomainData
+
+Contains data on plants : Scientific names, vulnerability, common names, etc.
+
+< Clean up and integration of disparate sources of data >
+------
 
 
 ---
