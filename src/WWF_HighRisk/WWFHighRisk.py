@@ -134,6 +134,8 @@ def parse_countries(df):
         df.loc[i, 'origin'] = origins
         df.loc[i, 'conduit'] = conduit
 
+
+
     return df
 
 
@@ -178,6 +180,37 @@ def main():
             res.append(c)
         res = ';'.join(res)
         df_3.loc[i, 'common_name'] = res
+
+    # df_3['regions'] = None
+
+    def set_regions(row):
+        s1 = row['origin']
+        s2 = row['conduit']
+        if type(s1) == str and type(s2) == str:
+            s1 = s1.split(';')
+            s2 = s2.split(';')
+        elif type(s1) == str:
+            s1 = s1.split(';')
+            s2 = []
+        elif type(s2) == str:
+            s2 = s2.split(';')
+            s1 = []
+        else:
+            s1 = []
+            s2 = []
+        res = list(s1)
+        res.extend(s2)
+        res = ';'.join(res)
+        return res
+
+    df_3['regions'] = df_3.apply(set_regions, axis=1)
+
+    try:
+        del df_3['origin']
+        del df_3['conduit']
+    except:
+        pass
+    df_3['genus'] = df_3['genus'].apply(str.strip,args=(' ',))
     print(os.getcwd())
     op_loc = './../../GeneratedData/WWF_HighRisk'
     if not os.path.exists(op_loc):
@@ -187,3 +220,5 @@ def main():
     op_file_path = os.path.join(op_loc, op_file)
     df_3.to_csv(op_file_path,index=False)
     return
+
+main()

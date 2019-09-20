@@ -71,11 +71,17 @@ def parse(df):
     # ----
     # Collate the common names into a single column
     # ----
-    df['common_name'] = df.apply(
+    df['common_names'] = df.apply(
         join_all_common_names,
         axis=1,
         args= ( ['Common Name','main_common_name'],)
     )
+    try:
+        del df['main_common_name']
+        del df['Common Name']
+    except:
+        pass
+    df = df.rename(columns={'Status code':'status_code'})
     return df
 
 
@@ -95,6 +101,5 @@ def main():
         index=False
     )
     return op_file_path
-
 
 

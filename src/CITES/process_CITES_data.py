@@ -70,11 +70,10 @@ def main():
     df = get_raw_data()
     cites_df = process_df(df)
     op_loc = './../../GeneratedData/CITES'
-    op_file_name = 'CITES_parsed_data.csv'
+    op_file_name = 'CITES.csv'
     if not os.path.exists(op_loc):
         os.mkdir(op_loc)
 
     op_file_path= os.path.join(op_loc,op_file_name)
     cites_df.to_csv(op_file_path, index=False)
 
-main()

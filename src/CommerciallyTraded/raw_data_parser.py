@@ -140,10 +140,8 @@ def parse_df(df):
     )
     # Assumption that only 3 max variations of scientific names exist
     columns = [
-        'sc_name',
         'genus',
         'species',
-        'type',
         'family'
     ]
     new_df = pd.DataFrame(columns=columns)
@@ -161,16 +159,11 @@ def parse_df(df):
         for _scn in list_sc_name:
             tmp = _scn.split(' ')
             row_dict = {
-                'sc_name': _scn,
                 'genus': tmp[0],
                 'species': tmp[1],
-                'num_sc_names': 0,
-                'family': row['family'],
-                'type': row['type']
+                'family': row['family']
             }
-
             new_df = new_df.append(row_dict, ignore_index=True)
-
     return new_df
 
 def main():
@@ -188,5 +181,4 @@ def main():
     df.to_csv(op_file_path,index=False)
     return
 
-main()
 
