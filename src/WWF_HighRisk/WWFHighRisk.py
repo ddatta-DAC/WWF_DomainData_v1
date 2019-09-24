@@ -204,6 +204,7 @@ def main():
         return res
 
     df_3['regions'] = df_3.apply(set_regions, axis=1)
+    df_3 = df_3.rename(columns={'common_name':'common_names'})
 
     try:
         del df_3['origin']

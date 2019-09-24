@@ -74,6 +74,10 @@ def parse_row(row):
     main_common_name = row['common_name']
     if main_common_name is not None and type(main_common_name) == str:
         main_common_name = main_common_name.lower()
+
+        pattern_1 = re.compile('(\s)*var\.(\s)*')
+        main_common_name = re.sub(pattern_1, ';', main_common_name)
+
         main_common_name = main_common_name.replace('\n','')
         main_common_name = main_common_name.strip(' ')
         main_common_name = main_common_name.strip('\n')
@@ -169,12 +173,6 @@ def process(df):
 
     # Deduplicate the outputs, since same scientific name can have multiple rows
     df_1 = pd.DataFrame(df_0,copy=True)
-
-    def join_genus_sp(row):
-        sn = ' '.join([row['genus'],row['species']])
-        return sn
-
-    # df_1['scientific_name'] = df_1.apply(join_genus_sp , axis=1)
     df_1 = df_1.fillna('')
     res  = df_1.groupby(
         ['genus','species'],
@@ -186,11 +184,6 @@ def process(df):
     output_df = pd.DataFrame(
        res,copy=True
     )
-    #
-    # for g in groupby_obj:
-    #     g_df = g.reset_index()
-    #     print(g_df)
-
     return output_df
 
 
@@ -211,3 +204,4 @@ def main():
     return
 
 
+main()

@@ -63,6 +63,13 @@ try:
 except:
     logger.error('Error in preprocessing : See ForestProductKeywords.raw_data_parser')
 
+try:
+    from src.Collation import collate_plant_data_1
+    collate_plant_data_1.main()
+    logger.info('Success 7 : Collation done : See output :: GeneratedData/Collated')
+except:
+    logger.error('Error in preprocessing : See Collation.collate_plant_data_1')
+
 
 
 # ------- end ------- #

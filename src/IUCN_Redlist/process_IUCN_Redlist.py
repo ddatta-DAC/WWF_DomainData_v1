@@ -81,8 +81,34 @@ def parse(df):
         del df['Common Name']
     except:
         pass
-    df = df.rename(columns={'Status code':'status_code'})
-    return df
+    df = df.rename(columns={'Status code':'iucn_status_code'})
+
+    # some species names have multiple parts, stretch them out into multiple rows
+    new_df = pd.DataFrame(columns= list(df.columns))
+    for i,row  in df.iterrows():
+        gn = row['genus']
+        sp = row['species']
+        if ';' not in sp:
+            _dict = {
+                'genus': row['genus'],
+                'species': row['species'],
+                'iucn_status_code': row['iucn_status_code'],
+                'common_names': row['common_names']
+            }
+            new_df = new_df.append(_dict, ignore_index=True)
+        else:
+            sp_parts = sp.split(';')
+            for _sp in sp_parts:
+                _dict = {
+                    'genus' : gn,
+                    'species': _sp,
+                    'iucn_status_code' : row['iucn_status_code'],
+                    'common_names' : row['common_names']
+                }
+
+                new_df = new_df.append(_dict, ignore_index=True)
+
+    return new_df
 
 
 def main():
@@ -102,4 +128,4 @@ def main():
     )
     return op_file_path
 
-
+main()

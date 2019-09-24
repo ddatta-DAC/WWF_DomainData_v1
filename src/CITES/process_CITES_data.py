@@ -26,7 +26,7 @@ def get_raw_data():
     df = df.rename(columns={
         'Genus':'genus',
         'Species':'species',
-        'Listing':'listing',
+        'Listing':'cites_listing',
         'All_DistributionISOCodes':'region'
     })
 
@@ -62,7 +62,8 @@ def process_df ( cites_df ) :
         convert_ISO2_to_ISO3
     )
     cites_df['genus'] = cites_df['genus'].apply(str.strip)
-    cites_df['species'] = cites_df['genus'].apply(str.strip)
+    cites_df['species'] = cites_df['species'].apply(str.strip)
+    cites_df = cites_df.rename(columns={'region':'regions'})
     return cites_df
 
 
@@ -76,4 +77,3 @@ def main():
 
     op_file_path= os.path.join(op_loc,op_file_name)
     cites_df.to_csv(op_file_path, index=False)
-

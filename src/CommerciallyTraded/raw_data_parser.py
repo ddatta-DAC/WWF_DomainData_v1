@@ -164,6 +164,7 @@ def parse_df(df):
                 'family': row['family']
             }
             new_df = new_df.append(row_dict, ignore_index=True)
+    print(new_df.columns)
     return new_df
 
 def main():
@@ -180,5 +181,4 @@ def main():
     )
     df.to_csv(op_file_path,index=False)
     return
-
 
