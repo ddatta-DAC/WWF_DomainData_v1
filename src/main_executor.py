@@ -71,7 +71,6 @@ except:
     logger.error('Error in preprocessing : See Collation.collate_plant_data_1')
 
 
-
 # ------- end ------- #
 
 logger.info('End : ' + str(datetime.datetime.now()))

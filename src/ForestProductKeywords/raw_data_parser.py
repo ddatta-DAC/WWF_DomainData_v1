@@ -203,5 +203,3 @@ def main():
     df.to_csv(op_file_path,index=False)
     return
 
-
-main()

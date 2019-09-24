@@ -5,3 +5,17 @@ Start : 2019-09-17 16:49:17.757708
 Success 1
 End : 2019-09-17 16:51:16.908007
 Start : 2019-09-18 10:36:45.299112
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing HS codes : See WWFHighRisk
+End : 2019-09-18 10:38:49.358383
+Start : 2019-09-18 15:40:23.642223
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing HS codes : See WWFHighRisk
+Success 3 : CITES data cleaned
+Success 4 : IUCN Redlist data cleaned
+End : 2019-09-18 15:42:37.947127
+Start : 2019-09-24 15:42:50.738563
+Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Success 3 : CITES data cleaned
+Start : 2019-09-24 15:44:04.967461

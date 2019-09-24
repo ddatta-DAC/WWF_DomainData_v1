@@ -288,10 +288,10 @@ def main():
         'genus',
         'species',
         'family',
-        'cites_flag',
-        'iucn_status_code',
         'common_names',
         'regions',
+        'cites_flag',
+        'iucn_flag',
         'wwf_high_risk_flag'
     ]
 
@@ -333,10 +333,7 @@ def main():
 
     master_df = filter_out_unwanted_families(master_df)
     master_df_1 = add_common_names(master_df, df_dict)
-    master_df_1.to_csv('tmp1.csv', index=False)
-
     master_df_2 = add_region(master_df_1, df_dict)
-    master_df_2.to_csv('tmp2.csv', index=False)
 
     ref_df = df_dict['CITES']
     master_df_3 = add_cites_flag(ref_df, master_df_2)
