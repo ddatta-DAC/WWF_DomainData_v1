@@ -9,6 +9,7 @@ import datetime
 OP_DIR = './../Logs'
 if not os.path.exists(OP_DIR):
     os.mkdir(OP_DIR)
+cur_path = os.getcwd()
 
 log_file = 'log_file.txt'
 logger = logging.getLogger('main')
@@ -21,6 +22,8 @@ logger.info('Start : ' + str(datetime.datetime.now()))
 # Place modules to be executed
 # ------------------- #
 
+
+
 try:
     from src.hs_code_cleanup_v1 import  HSCode_preprocessing_v3
     HSCode_preprocessing_v3.main()
@@ -28,12 +31,14 @@ try:
 except:
     logger.error('Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3')
 
+
 try:
     from src.WWF_HighRisk import  WWFHighRisk
     WWFHighRisk.main()
     logger.info('Success 2 : WWFHighRisk')
 except:
     logger.error('Error in preprocessing : See WWFHighRisk.WWFHighRisk')
+
 
 try:
     from src.CITES import process_CITES_data

@@ -2,6 +2,19 @@ import pandas as pd
 import os
 import sys
 import re
+import inspect
+
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
+
 
 def get_raw_data():
     file_loc = './../../Data_v2/IUCN_RedList'
@@ -112,6 +125,10 @@ def parse(df):
 
 
 def main():
+    old_path = os.getcwd()
+    cur_path = get_cur_path()
+    os.chdir(cur_path)
+
     df = get_raw_data()
     df = parse(df)
     op_loc = './../../GeneratedData/IUCN_RedList'
@@ -126,6 +143,7 @@ def main():
         op_file_path,
         index=False
     )
-    return op_file_path
+    os.chdir(old_path)
+    return
 
 

@@ -19,3 +19,67 @@ Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3
 Error in preprocessing : See WWFHighRisk.WWFHighRisk
 Success 3 : CITES data cleaned
 Start : 2019-09-24 15:44:04.967461
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Success 3 : CITES data cleaned
+Success 4 : IUCN Redlist data cleaned
+Success 5 : CommerciallyTraded list data cleaned
+Success 6 : ForestProductKeywords list data cleaned
+Success 7 : Collation done : See output :: GeneratedData/Collated
+End : 2019-09-24 15:54:57.350722
+Start : 2019-09-24 16:19:35.387938
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Start : 2019-09-24 16:19:59.599826
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Start : 2019-09-24 16:20:39.034785
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Start : 2019-09-24 16:21:07.184877
+Success 1 : HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Start : 2019-09-24 16:22:06.249037
+Success 1 : HSCode_preprocessing_v3
+Start : 2019-09-24 16:22:15.337561
+Success 1 : HSCode_preprocessing_v3
+Start : 2019-09-24 16:22:50.118012
+Success 1 : HSCode_preprocessing_v3
+Start : 2019-09-24 16:23:05.407645
+Success 1 : HSCode_preprocessing_v3
+Start : 2019-09-24 16:24:26.435405
+Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Error in preprocessing : See CITES.process_CITES_data
+Error in preprocessing : See IUCN_Redlist.process_IUCN_Redlist
+Error in preprocessing : See CommerciallyTraded.raw_data_parser
+Error in preprocessing : See ForestProductKeywords.raw_data_parser
+Error in preprocessing : See Collation.collate_plant_data_1
+End : 2019-09-24 16:24:46.564351
+Start : 2019-09-24 16:24:51.281925
+Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3
+Error in preprocessing : See WWFHighRisk.WWFHighRisk
+Error in preprocessing : See CITES.process_CITES_data
+Error in preprocessing : See IUCN_Redlist.process_IUCN_Redlist
+Error in preprocessing : See CommerciallyTraded.raw_data_parser
+Error in preprocessing : See ForestProductKeywords.raw_data_parser
+Error in preprocessing : See Collation.collate_plant_data_1
+End : 2019-09-24 16:24:52.792637
+Start : 2019-09-24 16:27:05.323162
+Success 1 : HSCode_preprocessing_v3
+Success 2 : WWFHighRisk
+Error in preprocessing : See CITES.process_CITES_data
+Error in preprocessing : See IUCN_Redlist.process_IUCN_Redlist
+Error in preprocessing : See CommerciallyTraded.raw_data_parser
+Error in preprocessing : See ForestProductKeywords.raw_data_parser
+Error in preprocessing : See Collation.collate_plant_data_1
+End : 2019-09-24 16:29:17.448838
+Start : 2019-09-24 16:34:45.277846
+Success 1 : HSCode_preprocessing_v3
+Success 2 : WWFHighRisk
+Success 3 : CITES data cleaned
+Success 4 : IUCN Redlist data cleaned
+Success 5 : CommerciallyTraded list data cleaned
+Success 6 : ForestProductKeywords list data cleaned
+Success 7 : Collation done : See output :: GeneratedData/Collated
+End : 2019-09-24 16:45:37.272136

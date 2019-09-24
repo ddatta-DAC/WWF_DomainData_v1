@@ -3,6 +3,18 @@ import re
 import os
 import sys
 import textacy
+import inspect
+
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
 
 def get_raw_data():
     file_loc = './../../Data_v2/CommerciallyTraded'
@@ -168,6 +180,9 @@ def parse_df(df):
     return new_df
 
 def main():
+    old_path = os.getcwd()
+    cur_path = get_cur_path()
+    os.chdir(cur_path)
     df = get_raw_data()
     df = parse_df(df)
     op_file_loc = './../../GeneratedData/CommerciallyTraded'
@@ -180,5 +195,6 @@ def main():
         op_file_loc,op_file_name
     )
     df.to_csv(op_file_path,index=False)
+    os.chdir(old_path)
     return
 

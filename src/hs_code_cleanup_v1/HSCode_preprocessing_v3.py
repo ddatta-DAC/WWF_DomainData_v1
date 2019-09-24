@@ -489,10 +489,11 @@ def main_aux():
 
 
 def main():
-    cur_path = get_cur_path()
     old_path = os.getcwd()
+    cur_path = get_cur_path()
     os.chdir(cur_path)
     main_aux()
     os.chdir(old_path)
+    print(os.getcwd())
     return
 

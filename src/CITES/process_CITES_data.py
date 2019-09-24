@@ -5,6 +5,18 @@ import sys
 import re
 from iso3166 import countries_by_alpha2
 from iso3166 import countries_by_alpha3
+import inspect
+
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
 
 def get_raw_data():
     file_loc = './../../Data_v2/CITES'
@@ -68,6 +80,9 @@ def process_df ( cites_df ) :
 
 
 def main():
+    old_path = os.getcwd()
+    cur_path = get_cur_path()
+    os.chdir(cur_path)
     df = get_raw_data()
     cites_df = process_df(df)
     op_loc = './../../GeneratedData/CITES'
@@ -77,3 +92,5 @@ def main():
 
     op_file_path= os.path.join(op_loc,op_file_name)
     cites_df.to_csv(op_file_path, index=False)
+    os.chdir(old_path)
+    return

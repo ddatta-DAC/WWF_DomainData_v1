@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import sys
-
+import inspect
 '''
 Domain knowledge
 # Remove_families :
@@ -20,6 +20,17 @@ IUCN :
 
 '''
 
+
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
 
 def get_scn(row):
     return ' '.join([row['genus'], row['species']])
@@ -280,7 +291,8 @@ def add_wwf_high_risk_flag(ref_df, data_df):
     return data_df
 
 
-def main():
+def main_aux():
+
     df_dict = get_data_sources()
     # This is hardcoded for now
     attributes = [
@@ -351,3 +363,9 @@ def main():
 
     master_df_5.to_csv(op_file_path, index=None)
 
+def main():
+    old_path = os.getcwd()
+    cur_path = get_cur_path()
+    os.chdir(cur_path)
+    main_aux()
+    os.chdir(old_path)

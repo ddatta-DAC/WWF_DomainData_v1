@@ -2,11 +2,22 @@ import pandas as pd
 import textacy
 import spacy
 import os
+import inspect
 import sys
 
 nlp = spacy.load('en')
 from iso3166 import countries
 
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
 
 # Intermediate file manually edited. Donot lose that !!!!!
 # 'WWFHighRisk_intermediate.xlsx'
@@ -15,6 +26,7 @@ from iso3166 import countries
 
 
 def get_df():
+
     loc = './../../Data_v2/WWF_HighRisk'
     file = 'WWF_HighRiskCountryProfiles_Species.xlsx'
     file_path = os.path.join(loc, file)
@@ -134,12 +146,10 @@ def parse_countries(df):
         df.loc[i, 'origin'] = origins
         df.loc[i, 'conduit'] = conduit
 
-
-
     return df
 
 
-def main():
+def main_aux():
     # Filter out Columns needed
     df = get_df()
     df_1 = parse_countries(df)
@@ -222,3 +232,9 @@ def main():
     df_3.to_csv(op_file_path,index=False)
     return
 
+def main():
+    old_path = os.getcwd()
+    cur_path = get_cur_path()
+    os.chdir(cur_path)
+    main_aux()
+    os.chdir(old_path)
