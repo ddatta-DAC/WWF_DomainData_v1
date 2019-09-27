@@ -14,7 +14,6 @@ def get_data():
     df = pd.read_csv(path, index_col=None)
     return df
 
-
 def process_aux(df, output_file_name):
     output_loc = './../../GeneratedData/Keywords'
 
@@ -37,13 +36,19 @@ def process_aux(df, output_file_name):
                 parts = [ _ for _ in parts if len(_)>1 and _ not in exclude_words]
                 op_list.extend(parts)
 
-
+    # Do a bit of clean up
+    op_list = set(op_list)
+    op_list = [ _.strip() for _ in op_list]
+    series = pd.Series(op_list)
+    series.to_csv(output_file_path,index=False)
+    return
 
 def process():
     '''
     3 flags exists
     Create 3 output files
     '''
+
     target_columns = ['sc_name','species','common_names']
     df = get_data()
     flag_dict = {
@@ -55,9 +60,12 @@ def process():
     for flag, attr in flag_dict.items():
         col = attr['column']
         f_name = attr['op_file']
-        tmp_df =  df.loc[df.loc[col]!=0]
+        tmp_df =  df.loc[df[col]!=0]
         tmp_df = pd.DataFrame(tmp_df)
         tmp_df = tmp_df[target_columns]
 
         process_aux(tmp_df,f_name)
     return
+
+
+process()
