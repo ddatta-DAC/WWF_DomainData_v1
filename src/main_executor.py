@@ -75,6 +75,12 @@ try:
 except:
     logger.error('Error in preprocessing : See Collation.collate_plant_data_1')
 
+try:
+    from src.GenerateKeywords import processor_source_keywords
+    processor_source_keywords.main()
+    logger.info('Success 8 : Collation done : See output :: GeneratedData/Keywords')
+except:
+    logger.error('Error in preprocessing : See GenerateKeywords.processor_source_keywords')
 
 # ------- end ------- #
 
