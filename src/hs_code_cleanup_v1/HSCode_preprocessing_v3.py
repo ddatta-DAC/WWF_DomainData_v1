@@ -48,7 +48,7 @@ def clean_description(row, conjunction=' && '):
 
 def get_raw_file_name():
     loc = './../../Data_v2/HS_code_descriptions'
-    name = 'htsdata_ITC.csv'
+    name = 'htsdata_ITC_edited.csv'
     return os.path.join(loc, name)
 
 
@@ -58,10 +58,28 @@ Remove spurious 0s
 
 
 def remove_spurious_zeros(row):
-    h = row['HTS Number']
-    if type(h) != str: return None
 
-    parts = h.split('.')
+    h = row['HTS Number']
+
+    if type(h) != str or h == 'nan':
+        return None
+
+    parts1 = h.split('.')
+    parts = []
+    idx = 0
+    for p in parts1:
+        if len(p) > 2 and idx >0:
+            tmp = round(float('0.' + p),2)
+            tmp = str(tmp)[2:]
+            tmp = int(tmp)
+            p = str(tmp)
+        if idx==0 and len(p)<4:
+            p = p.zfill(4)
+        elif len(p) == 1:
+            p = str(p)+'0'
+        idx +=1
+        parts.append(p)
+
     _catch = '00'
     _flag = True
     while _flag:
@@ -69,6 +87,9 @@ def remove_spurious_zeros(row):
         if _last != _catch:
             _flag = False
             parts.append(_last)
+
+    if len(parts[-1]) == 1:
+        parts[-1] = parts[-1]+ '0'
     return '.'.join(parts)
 
 
@@ -123,7 +144,9 @@ def fill_in_missing_code(df):
         if type(h) != str:
             res = extrapolate_hs_code(new_DF, i)
             new_DF.at[i, hscode_col] = res
-
+        else:
+            if len(str(row[hscode_col]))<4:
+                new_DF.at[i, hscode_col] = str(row[hscode_col]).zfill(4)
     return new_DF
 
 
@@ -438,8 +461,11 @@ def generate_sc_names(ref_df, conjunction_symbol):
 def main_aux():
     conjunction_symbol = ' && '
 
-    df = pd.read_csv(get_raw_file_name())
+    df = pd.read_csv(get_raw_file_name(), dtype={'HTS Number': str})
+
+    df['HTS Number'] =  df['HTS Number'].astype(str)
     df['HTS Number'] = df.apply(remove_spurious_zeros, axis=1)
+
 
     delete_cols = [
         'Unit of Quantity',
@@ -463,6 +489,7 @@ def main_aux():
     )
     new_DF = fill_in_missing_code(df)
     new_DF.to_csv('tmp1.csv', index=False)
+    exit(1)
     new_DF_1 = complete_descriptions(new_DF)
     new_DF_2 = pd.DataFrame(new_DF_1, copy=True)
     col = 'HTS Number'
@@ -497,3 +524,4 @@ def main():
     print(os.getcwd())
     return
 
+main()

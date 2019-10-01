@@ -85,7 +85,20 @@ def processor():
                     # Add HS code to flag type
                     source_HS_Code_list[source].append(hs_code)
 
-
+    op_file_loc = './../../GeneratedData/HSCodes'
+    for source,_list in source_HS_Code_list.items():
+        f_name = source + '_' + 'HS_Codes.txt'
+        f_path = os.path.join(
+            op_file_loc,
+            f_name
+        )
+        _list = list(set(_list))
+        series_hscodes = pd.Series(_list)
+        series_hscodes.to_csv(
+            f_path,
+            header = False,
+            index=False
+        )
     print(source_HS_Code_list)
 
 

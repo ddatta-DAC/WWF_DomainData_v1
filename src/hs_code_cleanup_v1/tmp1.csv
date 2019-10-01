@@ -4619,7 +4619,7 @@ HTS Number,Indent,Description
 2204.21.50.35,9,Certified Organic
 2204.21.50.40,9,Other
 2204.21.50.28,8,White
-2204.21.50.50 ,9,Certified Organic
+2204.21.50.50,9,Certified Organic
 2204.21.50.55,9,Other
 2204.21.50.60,8,Other
 2204.21.20,4,Of an alcoholic strength by volume over 14 percent vol.
@@ -10348,7 +10348,13 @@ HTS Number,Indent,Description
 4402.10,1,Of bamboo
 4402.90,1,Other
 4403,0,Wood in the rough &&  whether or not stripped of bark or sap- wood &&  or roughly squared
-4403,1,Treated with paint &&  stain &&  creosote or other preservatives
+4403.10,1,Treated with paint &&  stain &&  creosote or other preservatives
+4403.10,2,Poles &&  piles && posts
+4403.10.00.20,3,Telephone &&  telegraph && electrical power poles
+4403.10.00.40,3,Fence posts
+4403.10.00.50,3,Other
+4403.10.00.60,2,Other
+4403.11,1,Treated with paint &&  stain &&  creosote or other preservatives
 4403.11,2,Coniferous
 4403.11,3,Poles &&  piles && posts
 4403.11.00.20,4,Telephone &&  telegraph && electrical power poles
@@ -10360,8 +10366,30 @@ HTS Number,Indent,Description
 4403.12.00.20,4,Telephone &&  telegraph && electrical power poles
 4403.12.00.40,4,Fence posts
 4403.12.00.50,4,Other
+4403.20,1,Other &&  coniferous
+4403.20,2,Pulpwood
+4403.20.00.04,3,Balsam &&  fir or spruce
+4403.20.00.08,3,Other
+4403.20,2,Poles &&  piles && posts
+4403.20.00.12,3,Telephone &&  telegraph && electrical power poles
+4403.20.00.15,3,Fence posts
+4403.20.00.16,3,Other
+4403.20.00.16,2,Logs && timber
+4403.20.00.16,3,Pine (<u>Pinus</u> spp.)
+4403.20.00.20,4,Southern yellow pine (Loblolly pine (<u>Pinus</u> <u>taeda</u>)) &&  long leaf pine (<u>Pinus</u> <u>palustris</u>) &&  pitch pine (<u>Pinus</u> <u>rigida</u>) &&  short leaf pine (<u>Pinus</u> <u>echinata</u>) &&  slash pine (<u>Pinus</u> <u>elliottii</u>) && Virginia pine (<u>Pinus</u> <u>virginiana</u>)
+4403.20.00.25,4,Ponderosa pine (<u>Pinus</u> <u>ponderosa</u>)
+4403.20.00.30,4,Other
+4403.20.00.35,3,Spruce (<u>Picea</u> spp.)
+4403.20.00.40,3,Douglas-fir (<u>Pseudotsuga</u> <u>menziesii</u>)
+4403.20.00.42,3,Other fir; balsam
+4403.20.00.50,3,Western hemlock (<u>Tsuga</u> <u>heterophylla</u>)
+4403.20.00.52,3,Other hemlock
+4403.20.00.55,3,Western red cedar (<u>Thuja</u> <u>plicata</u>)
+4403.20.00.57,3,Other cedar
+4403.20.00.64,3,Other
+4403.20.00.65,2,Other
 4403.12.00.60,3,Other
-4403,1,Other &&  coniferous
+4403.21,1,Other &&  coniferous
 4403.21,2,Of pine <u>(Pinus</u> spp.) &&  of which any cross-sectional dimension is 15 cm or more
 4403.21,3,Poles &&  piles && posts
 4403.21.00.12,4,Telephone &&  telegraph && electrical power poles
@@ -10374,11 +10402,11 @@ HTS Number,Indent,Description
 4403.21.00.65,3,Other
 4403.22,2,Of pine <u>(Pinus</u> spp.) &&  other
 4403.22.00.08,3,Pulpwood
-4403.22.00.08,3,Poles &&  piles && posts
+4403.22,3,Poles &&  piles && posts
 4403.22.00.12,4,Telephone &&  telegraph && electrical power poles
 4403.22.00.15,4,Fence posts
 4403.22.00.16,4,Other
-4403.22.00.08,3,Logs && timber
+4403.22,3,Logs && timber
 4403.22.00.20,4,Southern yellow pine (Loblolly pine (<u>Pinus</u> <u>taeda</u>)) &&  long leaf pine (<u>Pinus</u> <u>palustris</u>) &&  pitch pine (<u>Pinus</u> <u>rigida</u>) &&  short leaf pine (<u>Pinus</u> <u>echinata</u>) &&  slash pine (<u>Pinus</u> <u>elliottii</u>) && Virginia pine (<u>Pinus</u> <u>virginiana</u>)
 4403.22.00.25,4,Ponderosa pine (<u>Pinus</u> <u>ponderosa</u>)
 4403.22.00.30,4,Other
@@ -10429,13 +10457,14 @@ HTS Number,Indent,Description
 4403.26.00.57,4,Other cedar
 4403.26.00.64,4,Other
 4403.26.00.65,3,Other
-4403,1,Other &&  of tropical wood
+4403.21,1,Other &&  of tropical wood
 4403.41,2,Dark Red Meranti &&  Light Red Meranti && Meranti Bakau
 4403.49.01,2,Other
-4403,1,Other
+4403.21,1,Other
 4403.91,2,Of oak (<u>Quercus</u> spp.)
 4403.91.00.20,3,Of red oak
 4403.91.00.40,3,Other
+4403.92,2,Of beech (<u>Fagus</u> spp.)
 4403.93,2,Of beech (<u>Fagus</u> spp.) &&  of which any cross-sectional dimension is 15 cm or more
 4403.94,2,Of beech (<u>Fagus</u> spp.) &&  other
 4403.95,2,Of birch (<u>Betula</u> spp.) &&  of which any cross-sectional dimension is 15 cm or more
@@ -10480,29 +10509,88 @@ HTS Number,Indent,Description
 4406,1,Not impregnated
 4406.11,2,Coniferous
 4406.12,2,Nonconiferous
-4406,1,Other
+4406.90,1,Other
 4406.91,2,Coniferous
 4406.92,2,Nonconiferous
 4407,0,Wood sawn or chipped lengthwise &&  sliced or peeled &&  whether or not planed &&  sanded or end-jointed &&  of a thickness exceeding 6 mm
-4407,1,Coniferous
+4407.10.01,1,Coniferous
+4407.10.01.01,2,Finger-jointed
+4407.10.01.01,2,Other
+4407.10.01.02,3,Treated with paint &&  stain &&  creosote &&  or other preservative
+4407.10.01.02,3,Not treated
+4407.10.01.15,4,"Mixtures of spruce &&  pine &&  && fir (""S-P-F"")"
+4407.10.01.16,4,"Mixtures of western hemlock && amabilis fir (""hem-fir"")"
+4407.10.01.16,4,Other
+4407.10.01.16,5,Sitka spruce (<u>Picea</u> <u>sitchensis</u>)
+4407.10.01.17,6,Rough
+4407.10.01.18,6,Other
+4407.10.01.16,5,Other spruce
+4407.10.01.19,6,Rough
+4407.10.01.20,6,Other
+4407.10.01.16,5,Eastern white pine (<u>Pinus</u> <u>Strobus</u>) && red pine (<u>Pinus</u> <u>resinosa</u>)
+4407.10.01.42,6,Rough
+4407.10.01.43,6,Other
+4407.10.01.16,5,Lodgepole pine (<u>Pinus</u> <u>contorta</u>)
+4407.10.01.44,6,Rough
+4407.10.01.45,6,Other
+4407.10.01.16,5,Southern yellow pine (Loblolly pine (<u>Pinus</u> <u>taeda</u>)) &&  long leaf pine (<u>Pinus</u> <u>palustris</u>) &&  pitch pine (<u>Pinus</u> <u>rigida</u>) &&  short leaf pine (<u>Pinus</u> <u>echinata</u>) &&  slash pine (<u>Pinus</u> <u>elliottii</u>) && Virginia pine (<u>Pinus</u> <u>virginiana</u>)
+4407.10.01.46,6,Rough
+4407.10.01.47,6,Other
+4407.10.01.16,5,Ponderosa pine (<u>Pinus</u> <u>ponderosa</u>)
+4407.10.01.48,6,Rough
+4407.10.01.49,6,Other
+4407.10.01.16,5,Other pine
+4407.10.01.52,6,Rough
+4407.10.01.53,6,Other
+4407.10.01.16,5,Douglas-fir (<u>Pseudotsuga</u> <u>menziesii</u>)
+4407.10.01.16,6,Rough
+4407.10.01.54,7,Having a minimum dimension less than 5.1 cm
+4407.10.01.55,7,Having a minimum dimension 5.1 cm or more but less than 12.7 cm
+4407.10.01.56,7,Having a minimum dimension 12.7 cm or more
+4407.10.01.57,6,Other
+4407.10.01.16,5,Fir (<u>Abies</u> spp.)
+4407.10.01.58,6,Rough
+4407.10.01.59,6,Other
+4407.10.01.16,5,Hemlock (<u>Tsuga</u> spp.)
+4407.10.01.64,6,Rough
+4407.10.01.65,6,Other
+4407.10.01.16,5,Larch (<u>Larix</u> spp.)
+4407.10.01.66,6,Rough
+4407.10.01.67,6,Other
+4407.10.01.16,5,Western red cedar
+4407.10.01.68,6,Rough
+4407.10.01.69,6,Other
+4407.10.01.16,5,Yellow cedar (<u>Chamaecyparis</u> <u>nootkanensis</u>)
+4407.10.01.74,6,Rough
+4407.10.01.75,6,Other
+4407.10.01.16,5,Other cedar (<u>Thuja</u> spp. &&  <u>Juniperus</u> spp. &&  <u>Chamaecyparis</u> spp. &&  <u>Cupressus</u> spp. && <u>Libocedrus</u> spp.)
+4407.10.01.76,6,Rough
+4407.10.01.77,6,Other
+4407.10.01.16,5,Redwood (<u>Sequoia</u> <u>sempervirens</u>)
+4407.10.01.82,6,Rough
+4407.10.01.83,6,Other
+4407.10.01.16,5,Other
+4407.10.01.92,6,Rough
+4407.10.01.93,6,Other
+4407.11,1,Coniferous
 4407.11,2,Of pine (<u>Pinus</u> spp.)
 4407.11.00.01,3,Finger-jointed
-4407.11.00.01,3,Other
+4407.11,3,Other
 4407.11.00.02,4,Treated with paint &&  stain &&  creosote or other preservative
-4407.11.00.02,4,Not treated
-4407.11.00.02,5,Eastern white pine (<u>Pinus</u> <u>strobus</u>) && red pine (<u>Pinus</u> <u>resinosa</u>)
+4407.11,4,Not treated
+4407.11,5,Eastern white pine (<u>Pinus</u> <u>strobus</u>) && red pine (<u>Pinus</u> <u>resinosa</u>)
 4407.11.00.42,6,Rough
 4407.11.00.43,6,Other
-4407.11.00.02,5,Lodgepole pine (<u>Pinus</u> <u>contorta</u>)
+4407.11,5,Lodgepole pine (<u>Pinus</u> <u>contorta</u>)
 4407.11.00.44,6,Rough
 4407.11.00.45,6,Other
-4407.11.00.02,5,Southern yellow pine (Loblolly pine (<u>Pinus</u> <u>taeda</u>)) &&  long leaf pine (<u>Pinus</u> <u>palustris</u>) &&  pitch pine (<u>Pinus</u> <u>rigida</u>) &&  short leaf pine (<u>Pinus</u> <u>echinata</u>) &&  slash pine (<u>Pinus</u> <u>elliottii</u>) && Virginia pine (<u>Pinus</u> <u>virginiana</u>)
+4407.11,5,Southern yellow pine (Loblolly pine (<u>Pinus</u> <u>taeda</u>)) &&  long leaf pine (<u>Pinus</u> <u>palustris</u>) &&  pitch pine (<u>Pinus</u> <u>rigida</u>) &&  short leaf pine (<u>Pinus</u> <u>echinata</u>) &&  slash pine (<u>Pinus</u> <u>elliottii</u>) && Virginia pine (<u>Pinus</u> <u>virginiana</u>)
 4407.11.00.46,6,Rough
 4407.11.00.47,6,Other
-4407.11.00.02,5,Ponderosa pine (<u>Pinus</u> <u>ponderosa</u>)
+4407.11,5,Ponderosa pine (<u>Pinus</u> <u>ponderosa</u>)
 4407.11.00.48,6,Rough
 4407.11.00.49,6,Other
-4407.11.00.02,5,Other pine
+4407.11,5,Other pine
 4407.11.00.52,6,Rough
 4407.11.00.53,6,Other
 4407.12,2,Of fir (<u>Abies</u> spp.) && spruce (<u>Picea</u> spp.)
@@ -10554,7 +10642,7 @@ HTS Number,Indent,Description
 4407.19.10.02,6,Other
 4407.19.10.92,7,Rough
 4407.19.10.93,7,Other
-4407,1,Of tropical wood
+4407.11,1,Of tropical wood
 4407.21,2,Mahogany (<u>Swietenia</u> spp.)
 4407.22,2,Virola &&  Imbuia && Balsa
 4407.22.00.06,3,Balsa (<u>Ochroma</u> <u>lagopus</u>)
@@ -10573,7 +10661,7 @@ HTS Number,Indent,Description
 4407.29.01.60,3,Cedro (<u>Cedrela</u> spp.) &&  also known as Spanish Cedar
 4407.29.01.85,3,Jatoba (<u>Hymenaea</u> spp.) &&  also known as Brazilian Cherry
 4407.29.01.90,3,Other
-4407,1,Other
+4407.11,1,Other
 4407.91,2,Of oak (<u>Quercus</u> spp.)
 4407.91.00.22,3,Red oak
 4407.91.00.63,3,Other
@@ -10985,7 +11073,18 @@ HTS Number,Indent,Description
 4418.50.00.30,3,Other
 4418.50.00.50,2,Other
 4418.60,1,Posts && beams
-4418.60,1,Assembled flooring panels
+4418.71,1,Assembled flooring panels
+4418.71,2,For mosaic floors
+4418.71.10,3,Solid
+4418.71.20,3,Other
+4418.71.20,4,Having a face ply more than 6 mm in thickness
+4418.71.90,4,Other
+4418.72,2,Other &&  multilayer
+4418.72.20,3,Having a face ply more than 6 mm in thickness
+4418.72.91,3,Other
+4418.72.91,4,Of unidirectional bamboo
+4418.72.95,4,Other
+4478.73,1,Assembled flooring panels
 4418.73,2,Of bamboo or with at least the top layer (wear layer) of bamboo
 4418.73,3,For mosaic floors
 4418.73.10,4,Solid
@@ -11007,7 +11106,17 @@ HTS Number,Indent,Description
 4418.75.40,3,Having a face ply more than 6 mm in thickness
 4418.75.70,3,Other
 4418.79.01,2,Other
-4418.60,1,Other
+4418.90,1,Other
+4418.90.25,2,Drilled or notched lumber studs
+4418.90.46,2,Other
+4418.90.46.05,3,Wood flooring
+4418.90.46.05,3,Other
+4418.90.46.10,4,Arches &&  laminated
+4418.90.46.20,4,Roof trusses
+4418.90.46.40,4,Other fabricated structural wood members
+4418.90.46.50,4,Prefabricated partitions && panels for buildings
+4418.90.46.95,4,Other
+4418.91,1,Other
 4418.91,2,Of bamboo
 4418.91.10,3,Drilled or notched lumber studs
 4418.91.90,3,Other
@@ -11050,6 +11159,37 @@ HTS Number,Indent,Description
 4421,0,Other articles of wood
 4421.10,1,Clothes hangers
 4421.10,1,Other
+4421.90,1,Other
+4421.90,2,Wood dowel pins
+4421.90,3,Plain
+4421.90.10,4,Coniferous
+4421.90.15,4,Other
+4421.90.20,3,Sanded &&  grooved or otherwise advanced in condition
+4421.90,2,Wood blinds &&  shutters &&  screens && shades &&  all the foregoing with or without their hardware
+4421.90.30,3,Consisting of wooden frames in the center of which are fixed louver boards or slats &&  with or without their hardware
+4421.90.40,3,Other
+4421.90,2,Toothpicks &&  skewers &&  candy sticks &&  ice cream sticks &&  tongue depressors &&  drink mixers && similar small wares
+4421.90.50,3,Toothpicks
+4421.90.60,3,Other
+4421.90.70,2,Pickets &&  palings &&  posts && rails &&  the foregoing which are sawn; assembled fence sections
+4421.90.70.20,3,Assembled fence sections
+4421.90.70.40,3,Other
+4421.90,2,Clothespins
+4421.90.80,3,Spring-type
+4421.90.80.24,4,Valued not over 80¢/gross
+4421.90.80.27,4,Valued over 80¢ but not over $1.35/gross
+4421.90.80.30,4,Valued over $1.35 but not over $1.70/gross
+4421.90.80.33,4,Valued over $1.70/gross
+4421.90.85,3,Other
+4421.90.88,2,Canoe paddles
+4421.90.88,2,Other
+4421.90.93,3,Theatrical &&  ballet &&  && operatic scenery && properties &&  including sets
+4421.90.94,3,Edge-glued lumber
+4421.90.97,3,Other
+4421.90.97.20,4,Pencil slats
+4421.90.97.30,4,Burial caskets
+4421.90.97.70,4,Gates for confining children or pets
+4421.90.97.80,4,Other
 4421.91,2,Of bamboo
 4421.91,3,Wood dowel pins
 4421.91.10,4,Plain
@@ -19305,7 +19445,7 @@ HTS Number,Indent,Description
 6601.10,1,Other
 6601.91,2,Having a telescopic shaft
 6601.99,2,Other
-6602,0,Walking-sticks &&  seat-sticks &&  whips &&  riding-crops && the like
+6602.00.,0,Walking-sticks &&  seat-sticks &&  whips &&  riding-crops && the like
 6603,0,Parts &&  trimmings && accessories of articles of heading 6601 or 6602
 6603.20,1,Umbrella frames &&  including frames mounted on shafts (sticks)
 6603.20.30,2,For hand-held umbrellas chiefly used for protection against rain
