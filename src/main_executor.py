@@ -82,6 +82,13 @@ try:
 except:
     logger.error('Error in preprocessing : See GenerateKeywords.processor_source_keywords')
 
+try:
+    from src.LEB  import LEB_preprocess
+    LEB_preprocess.main()
+    logger.info('Success 9 : Log Export Bans data  : See output :: GeneratedData/LEB')
+except:
+    logger.error('Error in preprocessing : See LEB.LEB_preprocess')
+
 # ------- end ------- #
 
 logger.info('End : ' + str(datetime.datetime.now()))
