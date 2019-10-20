@@ -11,6 +11,7 @@ import pandas as pd
 import numpy as np
 import os
 import sys
+import inspect
 from collections import defaultdict
 
 class country_iso_code_fetcher:
@@ -28,6 +29,17 @@ class country_iso_code_fetcher:
 
 ISO_CODE_OBJ = country_iso_code_fetcher()
 
+
+def get_cur_path():
+    this_file_path = '/'.join(
+        os.path.abspath(
+            inspect.stack()[0][1]
+        ).split('/')[:-1]
+    )
+
+    os.chdir(this_file_path)
+    print(os.getcwd())
+    return this_file_path
 
 
 
@@ -172,6 +184,10 @@ def pre_process_part_2(df=None):
 
 
 def main():
+    cur_path = get_cur_path()
+    old_path = os.get_cwd()
+    os.chdir(cur_path)
+
     df = pre_process_part_1()
     op_df = pre_process_part_2(df)
     print('----')
@@ -184,6 +200,7 @@ def main():
     file_name = 'LEB_hscode_country.csv'
     OP_FILE = os.path.join(file_loc, file_name)
     op_df.to_csv(OP_FILE, index=False)
+    os.chdir(old_path)
     return
 
 

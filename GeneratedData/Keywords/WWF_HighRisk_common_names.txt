@@ -1,195 +1,195 @@
-sapele
-african stinkwood
-cedro
-meranti bunga
-fiddlewood
-bitter almond
-pinho brasileiro
-guatemalan fir
-hong song
-moabi
-jequitiva
-east african sandalwood
-goma gomo
-billian
-black pine podocarp
-japanese yew
-light red meranti
-samba
-yellow wood
-chengal
-red stinkwood
-sumauma
-sapelli
-korean pine
-okoumé
-pino blanco
-ogiekpogo
-east himalayan yew
-mexican fir
-pinheiro das missoes
-kasai
-onglen
-monkey puzzle
-merawan
-thuner
-kung
-gaiac
-white meranti
-abeto de guatemala
-small persimmon
-takhian khao
-ebony
-ulin
-pino chileno
-pygeum africanum
-tarara
-candelabra tree
-ayous
-penkwa
-himalayan yew
-pinabere
-atlantic white cypress
-atlantic white cedar
-bintangor
-okoume
-kapok
-japanese elm
-dau con quay
-dark red meranti
-abarco
-patagonian pilgerodendron
-dau la bong
-aboudikrou
-blackwood
-chilean pine
-fuma (fromager)
-ubilesan
-balau yellow
-kayu pengerawan buaya
-chilean false larch
-amur linden
-dau dong
-channamu
-mersawa
-khlong
-yellow meranti
-belian
-pino araucana
-bacu
-teak
-ramin
-pino de missiones
-khaen si
-ximalaya hongdoushan
-gurjun
-kapur
-balau red
-monkey puzzle tree
-black ebony
-curii
-white cypress
-muyovu
-dau loang
-bi
-engkabang rusa
-pine
-libuyu
-gurjan
-owura
-pinheiro-elegante
-lauan
-african cherry
-ironwood
-lawaan
-hoja de yuca
-pinheiro-da-ponta-br anca
-yaang daeng
-galacwood
-moral
-romerillo
-white meranti
 seraya
+iroko
+pinheiro-elegante
+ayous (obéché)
+manchurian ash
+arere
+araucaria
+lawaan
+gurjun
+marsolok (s. platyclados) in indonesia
+balau yellow
+red strinkhout
+patagonian cypress
+japanese yew
+red stinkwood
+dau loang
+ramin
+bintangor
+nyatoh
+tebelian
+xu mi hong dou shan
+ubilesan
+atlantic white cypress
+yellow meranti
+kapur
+ogiekpogo
+sakian
 verawood
-gaboon
+abarco
+pinheiro-preto
+merawan jeruai
+tajibo
+chheuteal dong
+candelabra tree
+obeche
+sapele
+guaitecas cypress
+pino blanco
+hoja de yuca
+chinese yew
+pino de missiones
+sapelli
+parana pine
+bacu
+thuner
+argentine lignum vitae
+selangan batu
+yellow meranti
+palosapis
+southern white cedar
+araucária
+bilinga
+sumauma
+teak
+giam
+maçaran­duba
+nyang daeng kiang
+romerillo
+abeto de guatemala
+penkwa
+goma gomo
+curii
+bi
+balau
+guaiac wood
+ulin
+bangkirai
+meranti bakau
+fuma (fromager)
+moukoumi
+pinheiro das missoes
+pinheiro-da-ponta-br anca
+ebène d'afrique (ebène madagascar)
+billian
+white meranti
+samba
+chengal
+onglen
+takhian bai yai
+balau red
+pinabere
+white meranti
+korean pine
+ironwood
+meranti bunga
+kayu ran
+ijebu
+monkey puzzle
+wawa
+keruing
+dau con quay
+ximalaya hongdoushan
+kapok
+lupula
+hinoki cypress
+korean cedar
+aboudikrou
+borneo ironwood
+okoumé
+moral
+muyovu
+libuyu
+pashaque
+yaang phluang
+galacwood
 tulian
 meranti
-selangan batu
-brown pine
-nyatoh
-pashaque
-sakian
-iroko
-guaiac
-bangkirai
-balau / selangan batu in myanmar
-manchurian linden
-guaitecas cypress
-angouma
-argentine lignum vitae
-chheuteal dong
-abachi
-borneo ironwood
-n'koumi
-holy wood
-araucária
-paraguay lignum vitae
-kedondong
-giam
-palosapis
-kayu ran
-parlatore’s podocarp
-asian mahogany
-wawa
-meranti bakau
-yaang phluang
-hinoki cypress
-bois de fer
-tajibo
-balau
-maçaran­duba
-gagil
-chilean cedar
-lupula
-guaiac wood
-kuasi
-xu mi hong dou shan
-palo santo
-lignum vitae
-meranti sopat
-southern white cedar
-billian
-moukoumi
-pinheiro-preto
-red strinkhout
-yellow meranti
-ayous (obéché)
+white cypress
 bilian
-patagonian cypress
-tebelian
-bilinga
-nyang daeng kiang
-philippine mahogany
-obeche
+kuasi
+small persimmon
+gurjan
+black ebony
+pine
+blackwood
+paraguay lignum vitae
 lahuen
-parana pine
-korean cedar
-im muk
-sapele mahogany
-chinese yew
-colombian mahogany
-merawan jeruai
-takhian bai yai
-tambulian
-alerce
-marsolok (s. platyclados) in indonesia
-keruing
-ebène d'afrique (ebène madagascar)
-and ipê-roxo
+patagonian pilgerodendron
+lignum vitae
+yaang daeng
+dau la bong
+cedro
+kung
+african cherry
+pino araucana
 light red meranti
-arere
-manchurian ash
-araucaria
+monkey puzzle tree
+holy wood
+jequitiva
+sapele mahogany
+gagil
+pino chileno
+yellow wood
+and ipê-roxo
+gaboon
+takhian khao
+black pine podocarp
 mahogany
-ijebu
+dark red meranti
+himalayan yew
+guatemalan fir
+pinho brasileiro
+parlatore’s podocarp
+tarara
+lauan
+ayous
+chilean pine
+palo santo
+gaiac
+philippine mahogany
+fiddlewood
+chilean cedar
+african stinkwood
+kasai
+abachi
+im muk
+owura
+bois de fer
+brown pine
+mexican fir
+billian
+japanese elm
+colombian mahogany
+engkabang rusa
+meranti sopat
+hong song
+atlantic white cedar
+balau / selangan batu in myanmar
+east himalayan yew
+kayu pengerawan buaya
+manchurian linden
+light red meranti
+chilean false larch
+pygeum africanum
+khlong
+moabi
 oak
+angouma
+ebony
+belian
+bitter almond
+okoume
+amur linden
+alerce
+asian mahogany
+east african sandalwood
+mersawa
+kedondong
+khaen si
+guaiac
+n'koumi
+merawan
+channamu
+dau dong
+tambulian

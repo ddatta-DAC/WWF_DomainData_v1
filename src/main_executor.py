@@ -18,18 +18,18 @@ handler = logging.FileHandler(os.path.join(OP_DIR, log_file))
 handler.setLevel(logging.INFO)
 logger.addHandler(handler)
 logger.info('Start : ' + str(datetime.datetime.now()))
+
 # ------------------- #
 # Place modules to be executed
 # ------------------- #
 
 
-
 try:
-    from src.hs_code_cleanup_v1 import  HSCode_preprocessing_v3
-    HSCode_preprocessing_v3.main()
-    logger.info('Success 1 : HSCode_preprocessing_v3')
+    from src.hs_code_cleanup_v1 import  HSCode_preprocessing_v4
+    HSCode_preprocessing_v4.main()
+    logger.info('Success 1 : HSCode_preprocessing_v4')
 except:
-    logger.error('Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v3')
+    logger.error('Error in preprocessing : See hs_code_cleanup_v1.HSCode_preprocessing_v4')
 
 
 try:
